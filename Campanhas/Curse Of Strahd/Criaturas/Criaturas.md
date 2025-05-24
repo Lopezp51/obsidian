@@ -1,2 +1,1 @@
 [[Curse Of Strahd]]
-#vampire 

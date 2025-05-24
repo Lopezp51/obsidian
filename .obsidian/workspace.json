@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "59da045ba0bcd88f",
+        "id": "435273aa37865517",
         "type": "tabs",
         "children": [
           {
-            "id": "00aa166829140d2f",
+            "id": "1133bc7541f17520",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/Curse Of Strahd/Criaturas/vampire.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8044d00188667403",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "vampire"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "8044d00188667403",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 657.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +177,13 @@
   },
   "active": "8044d00188667403",
   "lastOpenFiles": [
+    "Campanhas/Curse Of Strahd/Criaturas/vampire.md",
+    "Campanhas/Curse Of Strahd/Parte 1/Parte 1.md",
+    "Campanhas/Curse Of Strahd/Criaturas/Criaturas.md",
     "Campanhas/Curse Of Strahd/Curse Of Strahd.md",
-    "Campanhas/Curse Of Strahd/Parte 1/Parte 1.md"
+    "Campanhas/Curse Of Strahd/Criaturas",
+    "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Parte 2.md",
+    "Campanhas/Tales from the Yawning Portal/Tales from the Yawning Portal.md"
   ]
 }

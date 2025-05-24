@@ -1,0 +1,5 @@
+---
+aliases:
+  - "#vampire"
+---
+[[Criaturas]]

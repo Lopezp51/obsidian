@@ -1,17 +1,31 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "path:\"Campanhas/Curse Of Strahd\"  ",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file:\"vampire\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Campanhas/Curse Of Strahd/Criaturas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
       "query": "path:\"Campanhas/Curse Of Strahd\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.327323739126292,
+  "scale": 0.8445563892038084,
   "close": false
 }
