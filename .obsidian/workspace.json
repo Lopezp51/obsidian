@@ -37,16 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/Tales from the Yawning Portal/Tales from the Yawning Portal.md",
+                "file": "Campanhas/Curse Of Strahd/Curse Of Strahd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tales from the Yawning Portal"
+              "title": "Curse Of Strahd"
+            }
+          },
+          {
+            "id": "a93bc8aa7efc53a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strahd von Zarovich"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,15 +214,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa733eca324aac45",
+  "active": "a93bc8aa7efc53a8",
   "lastOpenFiles": [
-    "Campanhas/Campanhas.md",
-    "Campanhas/Tales from the Yawning Portal/Tales from the Yawning Portal.md",
-    "Campanhas/Tales from the Yawning Portal",
     "Campanhas/Curse Of Strahd/Parte 2/Parte 2.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
+    "Campanhas/Curse Of Strahd/Curse Of Strahd.md",
+    "Untitled.md",
+    "Campanhas/Tales from the Yawning Portal/Tales from the Yawning Portal.md",
+    "Campanhas/Campanhas.md",
+    "Campanhas/Tales from the Yawning Portal",
     "Campanhas/Curse Of Strahd/Parte 1/Parte 1.md",
     "README.md",
-    "Campanhas/Curse Of Strahd/Curse Of Strahd.md",
     "teste/nova nota.md",
     "Campanhas/Curse Of Strahd/Parte 2",
     "Campanhas/Curse Of Strahd/Parte 1",
