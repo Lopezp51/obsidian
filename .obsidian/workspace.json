@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
+                "file": "Party.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strahd von Zarovich"
+              "title": "Party"
             }
           }
         ],
@@ -216,9 +216,9 @@
   },
   "active": "a93bc8aa7efc53a8",
   "lastOpenFiles": [
-    "Campanhas/Curse Of Strahd/Parte 2/Parte 2.md",
     "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
     "Campanhas/Curse Of Strahd/Curse Of Strahd.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Parte 2.md",
     "Untitled.md",
     "Campanhas/Tales from the Yawning Portal/Tales from the Yawning Portal.md",
     "Campanhas/Campanhas.md",
