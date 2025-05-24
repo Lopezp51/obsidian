@@ -25,10 +25,14 @@
             "id": "0db2c24e3f131ace",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "teste/nova nota.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nova nota"
             }
           }
         ],
@@ -186,8 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd0d8358fb3162d0",
+  "active": "0db2c24e3f131ace",
   "lastOpenFiles": [
+    "Untitled.md",
+    "teste/nova nota.md",
+    "Untitled",
+    "teste",
     "gitignore",
     "Personagens/Cassandra.md",
     "Untitled.canvas",
