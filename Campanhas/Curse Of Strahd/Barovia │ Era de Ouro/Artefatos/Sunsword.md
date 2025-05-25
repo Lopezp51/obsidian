@@ -1,3 +1,3 @@
-
+[[Artefatos]]
 [[Pescador]]
 Usuários:

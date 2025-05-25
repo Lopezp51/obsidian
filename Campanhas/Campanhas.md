@@ -21,12 +21,10 @@
 				- **[[Balinok]]**
 				- **[[Krezk]]**
 				- **[[Vallaki]]**
-					- [[Casa van der Voort]]
 				- **[[Vila de Barovia]]**
 				- **[[Zeibung]]**
 			- [[Lago Zarovich]]
-		- **[[Personagens]]**
-			- [[A Névoa]]
+		- **Personagens**
 			- [[Pescador]]
 			- [[Strahd von Zarovich]]
 		- **[[Tramas]]**
