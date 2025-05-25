@@ -191,15 +191,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e2fc49b7cb3b1c3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Campanhas/Campanhas.md",
     "Campanhas/Curse Of Strahd/Parte 1/Facções/Vistani.md",
     "Campanhas/Curse Of Strahd/Parte 1/Facções/Facções.md",
-    "Campanhas/Campanhas.md",
     "Campanhas/Curse Of Strahd/Parte 1/Personagens/Personagens.md",
     "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
     "Campanhas/Curse Of Strahd/Parte 1/Personagens",
