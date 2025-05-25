@@ -3,7 +3,7 @@ node_size: "2"
 ---
 [[Maru]]
 [[Nevermore]]
-[[Urvino]]
+[[Campanhas/Curse Of Strahd/Barovia │ Era das Trevas/Facções/Os Sete Além/Urvino Martikov]]
 [[Shan]]
 [[Oz]]
 [[Hadan]]

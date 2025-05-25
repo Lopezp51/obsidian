@@ -1,4 +1,5 @@
-![[Texalia Veight V2-Portrait _8_.png|279x279]]Texaila Veight — ou, como ficou conhecida entre alguns, apenas **Tex** — foi uma clériga da deusa [[Selûne]], a Senhora da Noite, a Guardiã das Noites sem Lua.  
+![[Texalia Veight V2-Portrait _8_.png|279x279]]
+Texaila Veight — ou, como ficou conhecida entre alguns, apenas **Tex** — foi uma clériga da deusa [[Selûne]], a Senhora da Noite, a Guardiã das Noites sem Lua.  
 
 Mais especificamente, ela pertencia ao domínio do **Crepúsculo**, aquele limiar sagrado entre luz e escuridão, onde as sombras não são ameaça, mas abrigo. Onde a luz não é ofuscante, mas guia gentil.  
 

@@ -1,5 +1,6 @@
 
-![[Maru 1.png|334x338]]Dentre aqueles que ousaram enfrentar a névoa, havia uma mulher de sangue frio — no sentido mais literal que a expressão permite. Maru Orochi era uma filha dos yuan-ti, herdeira de uma linhagem que mistura carne e serpente, veneno e ambição. Mas, se perguntassem a ela, esse sangue era mais um fardo do que um orgulho.
+![[Maru 1.png|334x338]]
+Dentre aqueles que ousaram enfrentar a névoa, havia uma mulher de sangue frio — no sentido mais literal que a expressão permite. Maru Orochi era uma filha dos yuan-ti, herdeira de uma linhagem que mistura carne e serpente, veneno e ambição. Mas, se perguntassem a ela, esse sangue era mais um fardo do que um orgulho.
 
 Desde muito jovem, Maru aprendeu a viver nas margens. Não por falta de habilidade — pelo contrário —, mas por rejeição. Rejeição à própria origem, à própria família, ao destino que pareciam ter traçado para ela. Onde outros yuan-ti se apoiavam na magia inata ou no jogo político de intrigas, Maru seguiu outro caminho: o da sutileza, da lâmina escondida e das mãos rápidas.
 
