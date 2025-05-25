@@ -1,3 +1,1 @@
 [[Party]]
-[[Krezk]]
-[[Guerra Balinok]]

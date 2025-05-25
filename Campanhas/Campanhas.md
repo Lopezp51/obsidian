@@ -1,9 +1,6 @@
 %% Begin Waypoint %%
 - **[[Curse Of Strahd]]**
 	- **[[Barovia │ Era das Trevas]]**
-		- **[[Facções]]**
-			- [[Vistani]]
-		- **[[Personagens]]**
 	- **[[Barovia │ Era de Ouro]]**
 		- **[[Artefatos]]**
 			- [[Holy Symbol of Ravenkind]]
@@ -13,10 +10,7 @@
 		- **[[Eventos]]**
 			- [[Guerra Balinok]]
 		- **[[Facções]]**
-			- [[Alcateia]]
-			- [[Convento das Bruxas]]
 			- **[[Divindades]]**
-			- [[Os Corvos]]
 			- **[[Party]]**
 				- [[Bel]]
 				- [[Cass]]
@@ -28,18 +22,16 @@
 				- **[[Krezk]]**
 				- **[[Vallaki]]**
 					- [[Casa van der Voort]]
-					- [[Casa Wachter]]
 				- **[[Vila de Barovia]]**
 				- **[[Zeibung]]**
 			- [[Lago Zarovich]]
-		- **Personagens**
+		- **[[Personagens]]**
 			- [[A Névoa]]
-			- [[Baba Yaga]]
 			- [[Pescador]]
 			- [[Strahd von Zarovich]]
 		- **[[Tramas]]**
 			- [[Baile de Máscaras]]
-	- **Imagens**
+	- **[[Imagens]]**
 
 - **[[Tales from the Yawning Portal]]**
 

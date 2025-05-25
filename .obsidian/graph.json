@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,17 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#vampiro ",
+      "query": "tag:#vampire  ",
       "color": {
         "a": 1,
-        "rgb": 5653115
+        "rgb": 11403519
       }
     },
     {
-      "query": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Bestiário\"  ",
+      "query": "file:\"vampire\"",
       "color": {
         "a": 1,
-        "rgb": 6555906
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Campanhas/Curse Of Strahd/Criaturas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Campanhas/Curse Of Strahd\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     },
     {
@@ -29,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.3,
-  "nodeSizeMultiplier": 0.993229166666667,
-  "lineSizeMultiplier": 1.01875,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0,
-  "repelStrength": 5,
-  "linkStrength": 0.703125,
-  "linkDistance": 177,
-  "scale": 0.20478727023657728,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.5551033333588635,
   "close": false
 }
