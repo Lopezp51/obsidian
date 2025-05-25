@@ -1,6 +1,50 @@
 %% Begin Waypoint %%
 - **[[Curse Of Strahd]]**
 	- **[[Barovia │ Era das Trevas]]**
+		- **[[Artefatos]]**
+			- [[Livro Infantil]]
+			- [[Sunsword]]
+		- **[[Bestiário]]**
+			- [[Javali Selvagem]]
+		- **[[Eventos]]**
+			- **Strahd**
+				- [[Jovem Strahd Na Guerra]]
+		- **[[Facções]]**
+			- [[Alcateia]]
+			- **[[Divindades]]**
+				- [[Selûne]]
+			- [[Família Martikov]]
+			- **[[Os Sete Além]]**
+				- [[Hadan]]
+				- [[Maru]]
+				- [[Nevermore]]
+				- [[Oz]]
+				- [[Shan]]
+				- [[Tex]]
+				- [[Urvino Martikov]]
+			- [[Vistani]]
+		- **[[Localidades]]**
+			- [[Abadia de Santa Markovia]]
+			- [[Cabana da Zuleika]]
+			- **[[Cidades]]**
+				- [[Krezk]]
+				- [[Vallaki]]
+				- [[Vila de Barovia]]
+			- [[Daggerford]]
+			- [[Floresta Svalich]]
+		- **Personagens**
+			- [[Adriano Martikov]]
+			- [[Angelika Martikov]]
+			- [[Daviano Martikov]]
+			- [[Dimitri Krezkov]]
+			- [[Madame Eva]]
+			- [[Stanimir]]
+			- [[Strahd von Zarovich]]
+			- [[Urvino Martikov]]
+			- [[Zuleika Toranescu]]
+		- **[[Tramas]]**
+			- [[01│Primeira Leitura de Tarokka]]
+			- [[02│Encontrar Madame Eva]]
 	- **[[Barovia │ Era de Ouro]]**
 		- **[[Artefatos]]**
 			- [[Holy Symbol of Ravenkind]]
@@ -30,6 +74,11 @@
 		- **[[Tramas]]**
 			- [[Baile de Máscaras]]
 	- **[[Imagens]]**
+		- **[[Localidades]]**
+
+		- **[[Monstros]]**
+
+		- **[[Personagens]]**
 
 - **[[Tales from the Yawning Portal]]**
 

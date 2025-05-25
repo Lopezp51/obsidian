@@ -1,4 +1,4 @@
 ---
 node_size: "3"
 ---
-[[Localidades]]
+[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Localidades/Localidades]]
