@@ -1,15 +1,41 @@
 {
   "Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich.md": {
-    "f2c23de23f64a48f7af02778c3ee70f7": {
-      "position": "right",
-      "width": "264px",
-      "height": "328px",
-      "wrap": true
-    },
     "9a067513f52189a6fbadfae123f1162e": {
       "position": "right",
       "width": "",
       "height": "",
+      "wrap": true
+    }
+  },
+  "Campanhas/Curse Of Strahd/Barovia │ Era das Trevas/Personagens/Stanimir.md": {
+    "2963c13af3a9671ee9316b4a9db6a920": {
+      "position": "right",
+      "width": "435px",
+      "height": "316px",
+      "wrap": true
+    }
+  },
+  "Campanhas/Curse Of Strahd/Barovia │ Era das Trevas/Facções/Os Sete Além/Maru.md": {
+    "cab786110ddd1fe9f997cd5b4901a1b2": {
+      "position": "right",
+      "width": "",
+      "height": "",
+      "wrap": true
+    }
+  },
+  "Campanhas/Curse Of Strahd/Barovia │ Era das Trevas/Facções/Os Sete Além/Tex.md": {
+    "6708e3c65001237781ddb581a56d083d": {
+      "position": "right",
+      "width": "",
+      "height": "",
+      "wrap": true
+    }
+  },
+  "Campanhas/Curse Of Strahd/Barovia │ Era das Trevas/Personagens/Zuleika Toranescu.md": {
+    "11f66cc1bfa3acedd586d5d35075a24f": {
+      "position": "right",
+      "width": "228px",
+      "height": "284px",
       "wrap": true
     }
   }

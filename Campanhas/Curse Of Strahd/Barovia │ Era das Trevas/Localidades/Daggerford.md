@@ -1,0 +1,1 @@
+Cidade onde os [[Campanhas/Curse Of Strahd/Barovia │ Era das Trevas/Facções/Vistani|Vistani]] encontraram a party inicial pela primeira vez, e a cidade um paladino seria morto por uma outra party no futuro. 

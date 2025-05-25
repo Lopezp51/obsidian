@@ -2,5 +2,5 @@
 aliases:
   - "#Vampire"
 ---
-[[Bestiário]]
+[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Bestiário/Bestiário]]
 #Vampiro 

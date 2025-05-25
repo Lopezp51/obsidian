@@ -1,4 +1,4 @@
-[[Tramas]]
+[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/Tramas]]
 [[Castelo Ravenloft]]
-[[Strahd von Zarovich]]
-[[Party]]
+[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich]]
+[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Facções/Party/Party]]
