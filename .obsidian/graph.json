@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#vampire  ",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "path:\"Campanhas/Tales from the Yawning Portal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7971589
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8854989543150539,
-  "close": true
+  "scale": 1.5551033333588635,
+  "close": false
 }
