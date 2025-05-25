@@ -1,6 +1,8 @@
 %% Begin Waypoint %%
 - **[[Curse Of Strahd]]**
 	- **[[Barovia │ Era das Trevas]]**
+		- **[[Artefatos]]**
+			- [[Sunsword]]
 	- **[[Barovia │ Era de Ouro]]**
 		- **[[Artefatos]]**
 			- [[Holy Symbol of Ravenkind]]
