@@ -2,5 +2,5 @@
 aliases:
   - "#Vampire"
 ---
-[[Criaturas]]
-#Vampire 
+[[Bestiário]]
+#Vampiro 

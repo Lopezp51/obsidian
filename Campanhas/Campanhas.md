@@ -1,18 +1,46 @@
 %% Begin Waypoint %%
 - **[[Curse Of Strahd]]**
-	- **[[Parte 1]]**
+	- **[[Barovia │ Era das Trevas]]**
 		- **[[Facções]]**
 			- [[Vistani]]
 		- **[[Personagens]]**
-	- **[[Parte 2]]**
-		- **[[Castelo Ravenloft]]**
-		- **[[Cidades]]**
-			- **[[Krezk]]**
-			- **[[Vallaki]]**
-			- **[[Vila de Barovia]]**
-		- **[[Criaturas]]**
-			- [[Vampires]]
-		- [[Strahd von Zarovich]]
+	- **[[Barovia │ Era de Ouro]]**
+		- **[[Artefatos]]**
+			- [[Holy Symbol of Ravenkind]]
+			- [[Sunsword]]
+		- **[[Bestiário]]**
+			- [[Vampiros]]
+		- **[[Eventos]]**
+			- [[Guerra Balinok]]
+		- **[[Facções]]**
+			- [[Alcateia]]
+			- [[Convento das Bruxas]]
+			- **[[Divindades]]**
+			- [[Os Corvos]]
+			- **[[Party]]**
+				- [[Bel]]
+				- [[Cass]]
+			- [[Vistani]]
+		- **[[Localidades]]**
+			- **[[Castelo Ravenloft]]**
+			- **[[Cidades]]**
+				- **[[Balinok]]**
+				- **[[Krezk]]**
+				- **[[Vallaki]]**
+					- [[Casa van der Voort]]
+					- [[Casa Wachter]]
+				- **[[Vila de Barovia]]**
+				- **[[Zeibung]]**
+			- [[Lago Zarovich]]
+		- **Personagens**
+			- [[A Névoa]]
+			- [[Baba Yaga]]
+			- [[Pescador]]
+			- [[Strahd von Zarovich]]
+		- **[[Tramas]]**
+			- [[Baile de Máscaras]]
+	- **Imagens**
+
 - **[[Tales from the Yawning Portal]]**
 
 %% End Waypoint %%

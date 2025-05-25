@@ -11,5 +11,6 @@
   "image-converter",
   "url-into-selection",
   "obsidian-image-toolkit",
-  "homepage"
+  "homepage",
+  "custom-node-size"
 ]
