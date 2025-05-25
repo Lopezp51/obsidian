@@ -1,12 +1,19 @@
 {
-  "collapse-filter": false,
-  "search": "path:\"Campanhas/Curse Of Strahd\"  ",
+  "collapse-filter": true,
+  "search": "path:\"Campanhas/Curse Of Strahd/Parte 2\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "tag:#vampire  ",
+      "color": {
+        "a": 1,
+        "rgb": 11403519
+      }
+    },
     {
       "query": "file:\"vampire\"",
       "color": {
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8445563892038084,
+  "scale": 0.8854989543150539,
   "close": false
 }

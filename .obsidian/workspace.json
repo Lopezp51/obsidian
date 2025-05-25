@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "435273aa37865517",
+        "id": "daeab9d0a83eba5b",
         "type": "tabs",
         "children": [
           {
-            "id": "1133bc7541f17520",
+            "id": "7508ab21f9f1a87b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/Curse Of Strahd/Criaturas/vampire.md",
+                "file": "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vampire"
+              "title": "Strahd von Zarovich"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#vampire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,6 +84,22 @@
     "id": "3c2fda90931b0ab5",
     "type": "split",
     "children": [
+      {
+        "id": "18a605f09e04afa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8044d00188667403",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
       {
         "id": "307058b998700269",
         "type": "tabs",
@@ -140,26 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "8044d00188667403",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Outline of Strahd von Zarovich"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,18 +179,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "8044d00188667403",
+  "active": "7508ab21f9f1a87b",
   "lastOpenFiles": [
-    "Campanhas/Curse Of Strahd/Criaturas/vampire.md",
-    "Campanhas/Curse Of Strahd/Parte 1/Parte 1.md",
-    "Campanhas/Curse Of Strahd/Criaturas/Criaturas.md",
-    "Campanhas/Curse Of Strahd/Curse Of Strahd.md",
-    "Campanhas/Curse Of Strahd/Criaturas",
+    "Strahd_von_Zarovich-1.png",
     "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
+    "49e95cfbff60ed6a6b8a9d9d97cac037.png",
+    "Strahd_von_Zarovich.png",
+    "Campanhas/Campanhas.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Criaturas/Criaturas.md",
     "Campanhas/Curse Of Strahd/Parte 2/Parte 2.md",
-    "Campanhas/Tales from the Yawning Portal/Tales from the Yawning Portal.md"
+    "Campanhas/Curse Of Strahd/Parte 2/Criaturas/Vampires.md",
+    "Campanhas/Curse Of Strahd/Curse Of Strahd.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Cidades/Vila de Barovia/Vila de Barovia.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Cidades/Vallaki/Vallaki.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Cidades/Krezk/Krezk.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Cidades/Cidades.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Cidades/Vila de Barovia",
+    "Campanhas/Curse Of Strahd/Parte 2/Cidades/Krezk",
+    "Campanhas/Curse Of Strahd/Parte 2/Cidades/Vallaki",
+    "Campanhas/Curse Of Strahd/Parte 2/Cidades",
+    "Campanhas/Tales from the Yawning Portal/Tales from the Yawning Portal.md",
+    "Campanhas/Curse Of Strahd/Parte 1/Parte 1.md",
+    "Party.md",
+    "local voador.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Criaturas"
   ]
 }

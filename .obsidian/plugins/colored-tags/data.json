@@ -11,7 +11,8 @@
   },
   "knownTags": {
     "vampire": 1,
-    "vampiro": 2
+    "vampiro": 2,
+    "Vampire": 3
   },
   "_version": 3
 }

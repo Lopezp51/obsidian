@@ -1,1 +1,0 @@
-[[Curse Of Strahd]]
