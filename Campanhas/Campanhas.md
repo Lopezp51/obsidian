@@ -2,6 +2,7 @@
 - **[[Curse Of Strahd]]**
 	- **[[Parte 1]]**
 	- **[[Parte 2]]**
+		- **[[Castelo Ravenloft]]**
 		- **[[Cidades]]**
 			- **[[Krezk]]**
 			- **[[Vallaki]]**

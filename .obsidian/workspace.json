@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "ce06d9fd337e81b6",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "daeab9d0a83eba5b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7508ab21f9f1a87b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/Campanhas.md",
+                "file": "Campanhas/Curse Of Strahd/Parte 2/Castelo Ravenloft/Castelo Ravenloft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campanhas"
+              "title": "Castelo Ravenloft"
             }
           }
         ]
@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "daf083a6e3c7817e",
+            "id": "6e2fc49b7cb3b1c3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
+                "file": "Campanhas/Curse Of Strahd/Parte 2/Castelo Ravenloft/Castelo Ravenloft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strahd von Zarovich"
+              "title": "Outline of Castelo Ravenloft"
             }
           }
         ],
@@ -195,14 +195,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4ee723b9fce27600",
+  "floating": {
+    "id": "657db3832c679bb8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "65d8f17ef78873ef",
+        "type": "window",
+        "children": [
+          {
+            "id": "bccd070fa431b716",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "919558f684074c29",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Strahd_von_Zarovich-1.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Strahd_von_Zarovich-1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1866,
+        "y": 561,
+        "width": 317,
+        "height": 527,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7508ab21f9f1a87b",
   "lastOpenFiles": [
+    "Campanhas/Curse Of Strahd/Parte 2/Criaturas/Criaturas.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Castelo Ravenloft/Castelo Ravenloft.md",
+    "Campanhas/Curse Of Strahd/Parte 2/Castelo Ravenloft",
     "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
     "Strahd_von_Zarovich-1.png",
-    "49e95cfbff60ed6a6b8a9d9d97cac037.png",
     "Strahd_von_Zarovich.png",
+    "49e95cfbff60ed6a6b8a9d9d97cac037.png",
     "Campanhas/Campanhas.md",
-    "Campanhas/Curse Of Strahd/Parte 2/Criaturas/Criaturas.md",
     "Campanhas/Curse Of Strahd/Parte 2/Parte 2.md",
     "Campanhas/Curse Of Strahd/Parte 2/Criaturas/Vampires.md",
     "Campanhas/Curse Of Strahd/Curse Of Strahd.md",
