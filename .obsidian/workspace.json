@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ce06d9fd337e81b6",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "daeab9d0a83eba5b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7508ab21f9f1a87b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Campanhas/Campanhas.md",
-                "bFile": "Campanhas/Campanhas.md",
-                "aRef": ""
+                "file": "Campanhas/Curse Of Strahd/Parte 1/Facções/Vistani.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Campanhas"
+              "icon": "lucide-file",
+              "title": "Vistani"
             }
           }
         ]
@@ -167,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Strahd von Zarovich"
             }
           }
         ],
@@ -194,13 +195,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7508ab21f9f1a87b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
+    "Untitled.md",
+    "Campanhas/Curse Of Strahd/Parte 1/Facções/Vistani.md",
+    "Campanhas/Curse Of Strahd/Parte 1/Facções/Facções.md",
     "Campanhas/Curse Of Strahd/Parte 1/Personagens/Personagens.md",
     "Campanhas/Curse Of Strahd/Parte 1/Personagens",
-    "Campanhas/Curse Of Strahd/Parte 1/Facções/Facções.md",
+    "Campanhas/Campanhas.md",
     "Campanhas/Curse Of Strahd/Parte 1/Facções",
+    "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
     "49e95cfbff60ed6a6b8a9d9d97cac037.png",
     "Campanhas/Curse Of Strahd/Parte 2/Castelo Ravenloft/Castelo Ravenloft.md",
     "conflict-files-obsidian-git.md",
@@ -210,7 +214,6 @@
     "Campanhas/Curse Of Strahd/Parte 2/Castelo Ravenloft",
     "Imagens/Strahd_von_Zarovich-1.png",
     "Strahd_von_Zarovich.png",
-    "Campanhas/Campanhas.md",
     "Campanhas/Curse Of Strahd/Parte 2/Parte 2.md",
     "Campanhas/Curse Of Strahd/Parte 2/Criaturas/Vampires.md",
     "Campanhas/Curse Of Strahd/Curse Of Strahd.md",

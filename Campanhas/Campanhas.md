@@ -2,6 +2,7 @@
 - **[[Curse Of Strahd]]**
 	- **[[Parte 1]]**
 		- **[[Facções]]**
+			- [[Vistani]]
 		- **[[Personagens]]**
 	- **[[Parte 2]]**
 		- **[[Castelo Ravenloft]]**
