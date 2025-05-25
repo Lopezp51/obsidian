@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro\"  ",
+  "search": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#vampiro ",
+      "query": "tag:#vampiro",
       "color": {
         "a": 1,
         "rgb": 5653115
       }
     },
     {
-      "query": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Bestiário\"  ",
+      "query": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Bestiário\"",
       "color": {
         "a": 1,
         "rgb": 6555906
       }
     },
     {
-      "query": "path:\"Campanhas/Tales from the Yawning Portal\"  ",
+      "query": "path:\"Campanhas/Tales from the Yawning Portal\"",
       "color": {
         "a": 1,
         "rgb": 7971589
@@ -39,6 +39,6 @@
   "repelStrength": 5,
   "linkStrength": 0.703125,
   "linkDistance": 177,
-  "scale": 0.10418795774819298,
+  "scale": 0.5643273576342115,
   "close": false
 }
