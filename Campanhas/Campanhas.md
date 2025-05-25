@@ -1,6 +1,8 @@
 %% Begin Waypoint %%
 - **[[Curse Of Strahd]]**
 	- **[[Parte 1]]**
+		- **[[Facções]]**
+		- **[[Personagens]]**
 	- **[[Parte 2]]**
 		- **[[Castelo Ravenloft]]**
 		- **[[Cidades]]**

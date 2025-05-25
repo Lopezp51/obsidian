@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"Campanhas/Curse Of Strahd/Parte 2\"  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.8854989543150539,
-  "close": false
+  "close": true
 }
