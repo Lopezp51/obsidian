@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Campanhas/Campanhas.md",
-                "mode": "source",
-                "source": false
+                "file": "Imagens/Strahd_von_Zarovich.png"
               },
-              "icon": "lucide-file",
-              "title": "Campanhas"
+              "icon": "lucide-image",
+              "title": "Strahd_von_Zarovich"
             }
           }
         ]
@@ -197,11 +195,12 @@
   },
   "active": "4ee723b9fce27600",
   "lastOpenFiles": [
-    "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
     "Strahd_von_Zarovich-1.png",
-    "49e95cfbff60ed6a6b8a9d9d97cac037.png",
-    "Strahd_von_Zarovich.png",
+    "Imagens/Strahd_von_Zarovich.png",
     "Campanhas/Campanhas.md",
+    "Imagens",
+    "Campanhas/Curse Of Strahd/Parte 2/Strahd von Zarovich.md",
+    "49e95cfbff60ed6a6b8a9d9d97cac037.png",
     "Campanhas/Curse Of Strahd/Parte 2/Criaturas/Criaturas.md",
     "Campanhas/Curse Of Strahd/Parte 2/Parte 2.md",
     "Campanhas/Curse Of Strahd/Parte 2/Criaturas/Vampires.md",
