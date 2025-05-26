@@ -1,0 +1,1 @@
+![[Adriano Martikov.png|341x273]]

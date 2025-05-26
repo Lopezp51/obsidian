@@ -1,9 +1,15 @@
+---
+node_size: "10"
+---
 %% Begin Waypoint %%
 - **[[Curse Of Strahd]]**
 	- **[[Barovia │ Era das Trevas]]**
 		- **[[Artefatos]]**
-			- [[Livro Infantil]]
-			- [[Sunsword]]
+			- **Mágicos**
+				- [[Sunsword]]
+			- **Mundano**
+				- [[Champanhe dos Martikov's]]
+				- [[Livro Infantil]]
 		- **[[Bestiário]]**
 			- [[Javali Selvagem]]
 		- **[[Eventos]]**
@@ -12,6 +18,7 @@
 		- **[[Facções]]**
 			- [[Alcateia]]
 			- **[[Divindades]]**
+				- [[Mãe Noite]]
 				- [[Selûne]]
 			- [[Família Martikov]]
 			- **[[Os Sete Além]]**
@@ -21,7 +28,6 @@
 				- [[Oz]]
 				- [[Shan]]
 				- [[Tex]]
-				- [[Urvino Martikov]]
 			- [[Vistani]]
 		- **[[Localidades]]**
 			- [[Abadia de Santa Markovia]]
@@ -32,19 +38,27 @@
 				- [[Vila de Barovia]]
 			- [[Daggerford]]
 			- [[Floresta Svalich]]
+			- [[Vinícola Mago dos Vinhos]]
 		- **Personagens**
-			- [[Adriano Martikov]]
-			- [[Angelika Martikov]]
-			- [[Daviano Martikov]]
 			- [[Dimitri Krezkov]]
 			- [[Madame Eva]]
+			- **Martikov's**
+				- [[Adriano Martikov]]
+				- [[Angelika Martikov]]
+				- [[Criança Martikov]]
+				- [[Daviano Martikov]]
+				- [[Irwin Martikov]]
+				- [[Martikov boy]]
+				- [[Urvino Martikov]]
 			- [[Stanimir]]
 			- [[Strahd von Zarovich]]
-			- [[Urvino Martikov]]
+			- [[Zigfrid]]
 			- [[Zuleika Toranescu]]
 		- **[[Tramas]]**
-			- [[01│Primeira Leitura de Tarokka]]
+			- [[01│Leitura das Cartas]]
 			- [[02│Encontrar Madame Eva]]
+			- [[03│O Carregamento de Vinho para Kresk]]
+			- [[04│Noite na Abadia]]
 	- **[[Barovia │ Era de Ouro]]**
 		- **[[Artefatos]]**
 			- [[Holy Symbol of Ravenkind]]

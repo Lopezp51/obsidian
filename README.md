@@ -11,8 +11,8 @@ A gente usa o [Obsidian](https://obsidian.md/) pra organizar tudo, porque nada m
 ## 🗂️ O que tem aqui?
 
 - Pastas separadas por campanha.  
-- NPCs memoráveis e outros completamente esquecíveis.  
-- Anotações de lore, linhas do tempo, momentos marcantes e cagadas históricas.  
+- NPCs memoráveis.
+- Anotações de lore, itens mágicos, momentos marcantes e cagadas históricas.  
 - Diário de personagens, registros de sessões e aquele tipo de coisa que só quem joga entende.  
 
 ---
@@ -35,7 +35,7 @@ E porque, se um dia a gente quiser revisitar aquele momento épico, ou aquele mo
 ## 🚪 Aviso de porta da taverna
 
 Esse repositório é pessoal, feito pra nossa mesa.  
-Mas, se você caiu aqui por acaso, sinta-se bem-vindo pra fuçar, se inspirar ou roubar umas ideias (com responsabilidade, claro).  
+Mas, se você caiu aqui por acaso, sinta-se bem-vindo pra fuçar, se inspirar ou roubar umas ideias.
 
 ---
 

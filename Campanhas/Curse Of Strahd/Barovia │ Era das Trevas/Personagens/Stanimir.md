@@ -11,4 +11,4 @@ Foi encontrado pela primeira vez nos arredores da cidade de **Daggerford**, ao s
 À primeira vista, parecia ser apenas mais um vidente, oferecendo leituras do baralho de **Tarokka** em troca de algumas moedas. No entanto, quando seus olhos percorreram o destino traçado para aquele grupo de aventureiros, algo mudou.  
 O ouro, de repente, tornou-se irrelevante.
 
-[[01│Primeira Leitura de Tarokka]]
+[[01│Leitura das Cartas]]

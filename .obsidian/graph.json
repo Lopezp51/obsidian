@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era das Trevas\"  ",
   "showTags": false,
   "showAttachments": false,
@@ -31,14 +31,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.3,
-  "nodeSizeMultiplier": 0.993229166666667,
-  "lineSizeMultiplier": 1.01875,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.04150204742834,
+  "lineSizeMultiplier": 1.3942896998605,
   "collapse-forces": false,
-  "centerStrength": 0.245421410250641,
-  "repelStrength": 8.82509112181074,
-  "linkStrength": 0.902038428654997,
-  "linkDistance": 319,
-  "scale": 0.9367963461921235,
-  "close": true
+  "centerStrength": 0.415335463258786,
+  "repelStrength": 20,
+  "linkStrength": 0.251181208657697,
+  "linkDistance": 492,
+  "scale": 0.5334258125591007,
+  "close": false
 }
