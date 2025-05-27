@@ -70,8 +70,11 @@ node_size: "10"
 		- **[[Facções]]**
 			- **[[Divindades]]**
 			- **[[Party]]**
-				- [[Bel]]
-				- [[Cass]]
+				- [[Anna]]
+				- [[Bel Van Der Voort]]
+				- [[Cassandra Ashvire]]
+				- [[Malkieer]]
+				- [[Nikolai]]
 			- [[Vistani]]
 		- **[[Localidades]]**
 			- **[[Castelo Ravenloft]]**
@@ -86,7 +89,7 @@ node_size: "10"
 			- [[Pescador]]
 			- [[Strahd von Zarovich]]
 		- **[[Tramas]]**
-			- [[Baile de Máscaras]]
+			- [[01│Baile de Máscaras]]
 	- **[[Imagens]]**
 		- **[[Localidades]]**
 

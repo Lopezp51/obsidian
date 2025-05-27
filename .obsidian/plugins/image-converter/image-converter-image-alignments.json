@@ -6,5 +6,25 @@
       "height": "",
       "wrap": true
     }
+  },
+  "Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/01│Baile de Máscaras.md": {
+    "4624a577112e28dd5adae7a8b7ce5f75": {
+      "position": "right",
+      "width": "",
+      "height": "",
+      "wrap": true
+    },
+    "835741bfd860d34609ef25a35d762d19": {
+      "position": "left",
+      "width": "343px",
+      "height": "220px",
+      "wrap": true
+    },
+    "dc802d55c5c1280bdc606680964eab83": {
+      "position": "right",
+      "width": "241px",
+      "height": "331px",
+      "wrap": true
+    }
   }
 }
