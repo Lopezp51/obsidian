@@ -11,5 +11,6 @@
   "url-into-selection",
   "obsidian-image-toolkit",
   "homepage",
-  "custom-node-size"
+  "custom-node-size",
+  "persistent-graph"
 ]
