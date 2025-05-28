@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#vampiro",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1,
+  "textFadeMultiplier": -1.9,
   "nodeSizeMultiplier": 1.04150204742834,
   "lineSizeMultiplier": 1.3942896998605,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.415335463258786,
   "repelStrength": 20,
   "linkStrength": 0.251181208657697,
   "linkDistance": 492,
-  "scale": 0.2713867222142168,
+  "scale": 0.09848281368759858,
   "close": true
 }

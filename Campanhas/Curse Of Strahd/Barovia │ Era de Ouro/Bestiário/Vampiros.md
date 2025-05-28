@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "#Vampire"
+  - "#Vampiro"
 ---
-[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Bestiário/Bestiário]]
 #Vampiro 
+[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Bestiário/Bestiário|Bestiário]]

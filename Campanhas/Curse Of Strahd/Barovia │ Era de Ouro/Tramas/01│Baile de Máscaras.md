@@ -27,7 +27,9 @@ E, por fim, Cassandra, que se aproximava montada em sua égua de pelagem negra, 
 ---
 Ao cruzarem os portões do castelo, foram imediatamente tomados por uma atmosfera decadente e opulenta. O som profundo de um órgão ecoava pelas paredes de pedra, preenchendo cada arco, cada fresta, com notas que soavam quase como preces distorcidas. Taças de vinho tilintavam por todos os lados, e a festa já estava em pleno andamento.
 
-Os convidados “especiais” começaram a explorar os salões, sendo rapidamente atraídos por uma série de retratos antigos que decoravam as paredes. Entre eles, destacava-se uma pintura dos pais de [[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich|Strahd von Zarovich]] , ladeados pelo próprio rei em seus anos de juventude, um rosto mais jovem, mas cujos olhos já carregavam as mesmas sombras de agora.![[pais de strahd.png|295x331]]![[retrato de strahd mais novo.png|241x331]]
+Os convidados “especiais” começaram a explorar os salões, sendo rapidamente atraídos por uma série de retratos antigos que decoravam as paredes. Entre eles, destacava-se uma pintura dos pais de [[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich|Strahd von Zarovich]] , ladeados pelo próprio rei em seus anos de juventude, um rosto mais jovem, mas cujos olhos já carregavam as mesmas sombras de agora.
+
+![[pais de strahd.png|295x331]] ![[retrato de strahd mais novo.png|241x331]]
 
 ---
 

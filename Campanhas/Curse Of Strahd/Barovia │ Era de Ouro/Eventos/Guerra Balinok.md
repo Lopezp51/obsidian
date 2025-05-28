@@ -1,2 +1,2 @@
 [[Balinok]]
-[[Zeibung]]
+[[Bórgora]]

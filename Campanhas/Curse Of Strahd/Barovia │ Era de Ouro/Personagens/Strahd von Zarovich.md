@@ -1,8 +1,8 @@
 ---
 node_size: "2"
 ---
- ![[Strahd_von_Zarovich.png|264x328]]
- 
 #Vampiro 
 
-*Fia da mãe*, **corno** e <u>Rei</u>. 
+*Fia da mãe*, **corno** e <u>reina</u> em seu trono no alto [[Castelo Ravenloft]].
+
+![[Strahd von Zarovich.png|Strahd e seu Conselheiro|489x385]]
