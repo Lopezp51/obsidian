@@ -91,7 +91,9 @@ Em seguida, aproximou-se de Nikolai para iniciar uma conversa. Ele evitou falar 
 
 ---
 
-Parte do bel add john.
+Assim como Nikolai, Bel havia entrado na fila dos interessados em saudar o rei, e logo, depois de bajulações e cumprimentos de outros convidados mascarados, a vez dele chegou. 
+
+Após cumprimentar o rei Strahd e uma breve conversa seguir, é estranhamente deduzido por parte do rei com o que pareceu ter sido o seu próprio olfato, mesmo tentando disfarçar coçando o nariz, que Bel viria de Vallaki e por consequência supôs também a sua posição como candidato ao trono, vindo de uma família de um certo General. Falou que para ter sido escolhido e recomendado pelo General, Bel deve ser uma pessoa a qual extremamente capaz. Bel cumprimentou também o conselheiro do rei com um breve aceno, contudo a carapaça esquelética que cobria todo o rosto não deixava revelar nenhum detalhe sobre o nobre Khazan. Bel perguntou sobre a presença do General e se ele estaria presente, mas o rei denotou que ele não é muito participativo nos eventos da corte real.
 
 ---
 
@@ -108,9 +110,7 @@ Movida por uma curiosidade silenciosa, Cassandra se aproximou.
 As duas conversaram por alguns instantes. A figura elogiou Cassandra, falando que ela tinha uma presença boa. Cassandra percebeu que o boneco que a mulher costurava usava uma pequena réplica de sua máscara. Quando a costura foi finalizada, a mulher lhe estendeu o brinquedo com gentileza. Era um presente.
 
 Cassandra o pegou com cuidado, passando os dedos pelas linhas bordadas na boneca.
-
-![[boneca cass.png|Cassandra doll|221x331]]
-
+ ![[boneca cass.png|Cassandra doll|221x331]]
 Antes de se despedir, inclinou a cabeça levemente, num gesto amistoso:
 
 — Se nos virmos de novo... eu gostaria de continuar essa conversa. — Riu, apontando para os cabelos ruivos. — É só procurar alguém com o cabelo igual ao meu.
@@ -132,10 +132,12 @@ Enquanto isso, Nikolai, sob o disfarce mágico de _Disguise Self_, assumiu a apa
 
 No andar principal, Anna, Bel e Malkieer ouviram o  som cortante de um grito que atravessou o ambiente:  
 — _Ele morreu!_  
-A voz era de uma mulher, e a cena que encontraram os paralisou. No sofá, caído e imóvel, estava o [[irmão de Anna]]. Os três correram até ele, o ar pesado de tensão preenchendo o salão.
+A voz era de uma mulher, e a cena que encontraram os paralisou. No sofá, caído e imóvel, estava o [[Irmão da Anna]]. Os três correram até ele, o ar pesado de tensão preenchendo o salão.
 
 ---
 
-Em outra parte do castelo, Nikolai ainda descia as escadas quando um pressentimento ruim começou a crescer dentro dele, uma inquietação quase física. Ao decidir retornar, deu de cara com uma figura parada diante de si. A voz cortou o silêncio:
+Em outra parte do castelo, Nikolai ainda descia as escadas quando um pressentimento ruim começou a crescer dentro dele, uma inquietação quase física. Ao decidir retornar, deu de cara com uma figura parada diante de si. A voz cortou o silêncio
+
+![[Rahadin.jpg|Elfo misterioso|201x245]] 
 
 — _Qual é seu nome, mordomo? E o que está fazendo aqui?_

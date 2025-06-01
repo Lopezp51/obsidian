@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:\"Campanhas/Curse Of Strahd/Barovia │ Era de Ouro\"  ",
   "showTags": false,
   "showAttachments": false,
@@ -39,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.251181208657697,
   "linkDistance": 492,
-  "scale": 0.2713867222142263,
-  "close": true
+  "scale": 0.07024537449338285,
+  "close": false
 }

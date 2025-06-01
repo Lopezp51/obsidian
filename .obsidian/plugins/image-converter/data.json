@@ -214,8 +214,8 @@
   "modalBehavior": "never",
   "singleImageModalSettings": {
     "conversionPresetName": "None",
-    "outputFormat": "NONE",
-    "quality": 100,
+    "outputFormat": "ORIGINAL",
+    "quality": 1,
     "colorDepth": 1,
     "resizeMode": "None",
     "desiredWidth": 800,
