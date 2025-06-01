@@ -2,7 +2,7 @@
 
 Oi! Esse aqui é o nosso cantinho pra guardar as campanhas que eu e meu grupo jogamos ao longo dos anos.  
 
-Basicamente, é um grande arquivo de memórias — anotações, lore, teorias malucas, NPCs esquisitos e histórias que só fazem sentido pra quem tava lá (ou não, quem sabe?).  
+Basicamente, é um grande arquivo de memórias, anotações, lore, teorias malucas, NPCs esquisitos e histórias que só fazem sentido pra quem tava lá (ou não, quem sabe?).  
 
 A gente usa o [Obsidian](https://obsidian.md/) pra organizar tudo, porque nada melhor do que um mapa mental gigante pra tentar entender as maluquices que a gente inventou jogando RPG.
 
