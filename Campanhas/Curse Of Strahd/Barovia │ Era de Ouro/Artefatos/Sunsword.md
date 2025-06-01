@@ -1,3 +1,2 @@
-[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Artefatos/Artefatos]]
-[[Pescador]]
+[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Artefatos/Artefatos|Artefatos]]
 Usuários:

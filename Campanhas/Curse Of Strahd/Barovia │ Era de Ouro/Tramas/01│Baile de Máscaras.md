@@ -107,7 +107,10 @@ Movida por uma curiosidade silenciosa, Cassandra se aproximou.
 
 As duas conversaram por alguns instantes. A figura elogiou Cassandra, falando que ela tinha uma presença boa. Cassandra percebeu que o boneco que a mulher costurava usava uma pequena réplica de sua máscara. Quando a costura foi finalizada, a mulher lhe estendeu o brinquedo com gentileza. Era um presente.
 
-Cassandra o pegou com cuidado, passando os dedos pelas linhas bordadas na boneca.![[boneca cass.png|Cassandra doll|221x331]]
+Cassandra o pegou com cuidado, passando os dedos pelas linhas bordadas na boneca.
+
+![[boneca cass.png|Cassandra doll|221x331]]
+
 Antes de se despedir, inclinou a cabeça levemente, num gesto amistoso:
 
 — Se nos virmos de novo... eu gostaria de continuar essa conversa. — Riu, apontando para os cabelos ruivos. — É só procurar alguém com o cabelo igual ao meu.

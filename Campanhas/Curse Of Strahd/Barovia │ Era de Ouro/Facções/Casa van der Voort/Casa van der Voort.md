@@ -1,1 +1,2 @@
-[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Facções/Facções|Facções]]
+[[General van der Voort]]
+[[Bel van der Voort]]
