@@ -1,0 +1,1 @@
+![[primeiro_andar.png|410x403]]

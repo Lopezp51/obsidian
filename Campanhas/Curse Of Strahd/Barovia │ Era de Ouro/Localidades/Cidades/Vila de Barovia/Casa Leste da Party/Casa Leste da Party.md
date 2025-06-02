@@ -1,0 +1,1 @@
+![[casa leste da party.png]]

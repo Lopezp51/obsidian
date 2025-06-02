@@ -35,7 +35,7 @@ Os convidados “especiais” começaram a explorar os salões, sendo rapidament
 
 Pelos salões, Anna avistou uma pianista, tocando uma melodia delicada, quase etérea, que parecia destoar da imponência do órgão. Fascinada pela música, ela se aproximou… mas não ficou sozinha por muito tempo.
 
-Um homem surgiu de repente, segurando firme seu braço. Ele estava procurando por ela. O homem era seu irmão ([[Irmão da Anna]]) após trocarem algumas palavras, se apressou, partindo novamente pelos corredores em busca da irmã dos dois.
+Um homem surgiu de repente, segurando firme seu braço. Ele estava procurando por ela. O homem era seu irmão ([[Leon Wachter]]) após trocarem algumas palavras, se apressou, partindo novamente pelos corredores em busca da irmã dos dois.
 
 Anna, por sua vez, respirou fundo e, com um sutil estalar de dedos, um simples gesto arcano, conjurou um efeito de Prestidigitation. A máscara de urutau lentamente se desfez em partículas de poeira prateada, que flutuaram por alguns segundos antes de se recompor em uma nova forma: uma máscara delicada, etérea, representando um pássaro fada da neve, leve, elegante e encantadora.
 
@@ -132,7 +132,23 @@ Enquanto isso, Nikolai, sob o disfarce mágico de _Disguise Self_, assumiu a apa
 
 No andar principal, Anna, Bel e Malkieer ouviram o  som cortante de um grito que atravessou o ambiente:  
 — _Ele morreu!_  
-A voz era de uma mulher, e a cena que encontraram os paralisou. No sofá, caído e imóvel, estava o [[Irmão da Anna]]. Os três correram até ele, o ar pesado de tensão preenchendo o salão.
+A voz era de uma mulher, e a cena que encontraram os paralisou. No sofá, caído e imóvel, estava o [[Leon Wachter]]. Os três correram até ele, o ar pesado de tensão preenchendo o salão.
+
+O corpo jazia inclinado sobre o sofá, os lábios manchados por espuma pálida. Não respirava.  
+
+Anna quebrou o silêncio com algo frágil: um nome.  
+“Leon,” ela disse. Apenas isso.  
+Mas foi o suficiente. Bel ergueu o olhar, e no espaço entre uma dúvida e um sussurro, ligou o nome à Casa Wachter. Alguém havia envenenado o vinho.  Os mordomos comentaram, dizendo que ele havia se declarado um dos pretendentes ao trono.
+
+A irmã mais velha de Anna surgiu entre os convidados com passos firmes e palavras afiadas.  Ela se aproximou do corpo e, com um gesto simples, murmurou algo em uma língua antiga ou esquecida.  
+Leon estremeceu. Tossiu. Vinho, ou talvez sangue, escapou-lhe da boca.
+
+A mulher questionou Anna de qual carruagem ela tinha ficado, Anna mostrou que o envelope, sendo a carruagem número 1 que lhe foi designada, quando a irmã de Anna viu, comentou "O destino me fez feliz agora, não me incomode" e ela some na multidão.
+
+Leon, ainda pálido, se ergueu com a ajuda da irmã mais nova, após ela chamar ele de mané e ele querendo puxar briga com quem poderia ter envenenado ele.
+
+Bel e Malkieer permaneceram no salão, rodeados por ecos de música e veneno.
+
 
 ---
 
@@ -140,4 +156,203 @@ Em outra parte do castelo, Nikolai ainda descia as escadas quando um pressentime
 
 ![[Rahadin.jpg|Elfo misterioso|201x245]] 
 
-— _Qual é seu nome, mordomo? E o que está fazendo aqui?_
+— _Qual é seu nome, mordomo? E o que está fazendo aqui?
+
+Nikolai respondeu com uma mentira engatilhada — disse que não sabia ao certo o que havia acontecido, que servia um homem com máscara de lobo e, de repente, estava ali, perdido, deslocado.  
+O elfo pareceu aceitá-la, ou ao menos não se deu ao trabalho de desmenti-la. Ele ordenou que ele voltasse a seus afazeres. 
+Nikolai assentiu e subiu as escadas sem olhar para trás.  Mas algo subia com ele.  Não passos, mas o peso de um olhar, ou a sombra de uma dúvida.  A paranoia se instalou em seu peito como um hóspede silencioso.  E levaria tempo, muito tempo, até que partisse.
+
+---
+Em outro canto do castelo, Cassandra girava devagar ao som da música, dançando com o jovem de máscara de druida.  
+Durante a dança, ambos notaram o rei e seu conselheiro deixarem discretamente o salão. A ausência foi pequena, mas nela se abriu um silêncio curioso.
+Entre passos contidos e palavras leves, o jovem deixou escapar mais do que devia. Falou de seu povo, de raízes fundas, de um viver mais próximo da terra. Disse que a dança precisava acabar ali, que uma carruagem o esperava.  
+No instante seguinte, mordeu a língua com o arrependimento de quem percebe o erro só depois que ele toma forma no ar.
+
+Cassandra não pressionou.  
+Apenas sorriu com calma e disse, quase como quem aconselha uma criança:
+
+— _Você deveria tomar mais cuidado com o que deixa escapar._
+
+O jovem assentiu, envergonhado, e se afastou. Seus passos ecoaram escada abaixo, apressados demais para quem tentava parecer discreto.
+
+Cassandra ficou um pouco mais.  
+Quando a música mudou, ela se virou e começou a descer também.  
+Afinal, ela também tinha um número. E uma carruagem à espera.
+
+---
+
+Anna acompanhava o irmão para fora do castelo, os dois lado a lado, como quem conhece bem os caminhos entre o carinho e a provocação.  
+Havia afeto ali, discreto, atravessado por farpas pequenas, mas ainda assim afeto.a.
+
+Do lado de fora, a noite era silenciosa.  
+Anna deixou os olhos percorrerem a estrada que levava até os portões. A princípio, pareceu feita de pedra comum, cinzenta, gasta, sem segredo.  
+Mas, ao olhar com mais cuidado, algo se quebrou na impressão.
+Não parecia pedra, parecia gelo.. Um gelo espesso, límpido como vidro antigo.  
+E sob a superfície congelada, sombras imprecisas. Ossos. Esqueletos inteiros, como se afundados num lago que escolhera não derreter jamais. Ela parou por um instante. O chão parecia firme como rocha, mas parecia carregar em silêncio o peso de muitas mortes. Ela continuou caminhando adiante em direção a carroça. 
+
+---
+
+Nikolai observava sua carta com atenção exagerada, como se as linhas impressas pudessem mudar se ele piscasse.  
+Carruagem número 1.  
+Sim, era isso.  
+Mas por algum motivo, parecia errado.  
+Como se aquele número tivesse sido escrito por alguém que sabia demais.
+
+Ele respirou fundo. O salão parecia mais apertado. As vozes ao redor, mais altas.  
+Talvez não fossem. Talvez ele só estivesse nervoso.  
+Mas era difícil ignorar a sensação de que todos o observavam, de esguelha, por trás de máscaras e copos erguidos. Como se soubessem de algo.  
+Como se esperassem por ele.
+
+Lá fora, um trovão partiu o céu. A luz repentina caiu sobre o pátio, revelando por um instante o mundo em tons cruéis.  
+Nikolai olhou para além, buscando algum ponto fixo no horizonte.
+
+E então percebeu.
+
+Um mordomo o encarava.
+
+Estava ali, imóvel, como se já estivesse esperando.  
+E quando falou, a voz chegou clara demais, como se tivesse atravessado direto o nevoeiro da dúvida:
+
+— _Qual é o carroça do senhor?_ — perguntou. — _Para que eu o leve até ele._
+
+Por um momento, Nikolai não soube se era uma pergunta literal, uma charada, ou um erro de tradução.  Mas seguiu o mordomo até a carroça. 
+
+---
+
+Malkieer e Bel permaneciam no salão. Conversavam em tons baixos. A respeito da situação do envenenamento. 
+
+Enquanto Bel se distraía por um instante, Malkieer ergueu discretamente a mão, ou melhor, não a própria, mas uma que ninguém podia ver.  
+Uma _Mage Hand_, invisível como intenção mal disfarçada.
+
+Com a leveza de quem folheia um segredo, roubou o envelope do outro e o abriu com rapidez.  
+Carruagem número 1.
+
+Ele sorriu por dentro, guardando a informação como uma peça preciosa num tabuleiro que ainda estava se formando.
+
+— _São muitos competidores, não é?_ — disse Malkieer, com um sorriso leve, quase casual. — _Como você mesmo falou, é comum que um competidor vire alvo. Mas vencer essa disputa... bem, não é a única forma de chegar ao trono._  
+Fez uma pausa, como quem coloca uma peça no tabuleiro.  
+— _Pelo que estou vendo, talvez o mais importante seja ter aliados aqui dentro. Não acha?_ Com habilidades especiais.
+
+Bel manteve o olhar fixo no dele. Por um momento, não respondeu, como se estivesse pesando palavras com balanças invisíveis.
+
+— _As navalhas da corte realmente não são vistas com os olhos, — disse enfim, a voz baixa, quase uma confidência.
+
+Deu um passo à frente, encurtando a distância entre os dois.
+
+— _Aliado é alguém em quem se pode confiar. E eu..._ — os olhos dele perfuraram os de Malkieer — _...ainda estou medindo minha confiança._
+
+Pouco depois, Bel levou a mão ao bolso, em busca do envelope. Encontrou apenas o vazio.
+
+Antes que pudesse falar qualquer coisa, Malkieer puxou discretamente o convite de dentro de sua manga, estendendo-o entre dois dedos como se fosse um truque de salão.
+
+— _Falando em habilidades... acho que está procurando por isso,_ — disse com um meio sorriso.
+
+Bel o encarou. Não com raiva, mas com uma calma precisa, milimétrica. Uma daquelas calmas que vêm antes da lâmina.
+
+Tomou o envelope de volta, os olhos brilhando sob a máscara, firmes como aço polido.
+
+— _Que maneira interessante de conquistar a confiança de um aliado,_ — replicou, a voz tão suave quanto perigosa.
+
+Virou-se sem pressa, caminhando em direção à porta.  
+E mesmo de costas, havia algo em sua presença que ainda perfurava.
+
+_Primeiras impressões são as que ficam._
+
+Pouco tempo depois Malkieerfoi em direção a porta também. 
+
+---
+
+Cassandra descia lentamente a escadaria do segundo andar, os degraus ecoando sob seus passos com um som abafado, quase solene.  
+No andar inferior, o ambiente já havia mudado.  
+Não havia mais a vibração alegre dos brindes, nem o calor dos corpos próximos. Era a sensação de um fim.
+
+A única música que permanecia vinha do alto, como um eco teimoso: os violinos no andar de cima ainda tocavam, insistindo em manter a ilusão por mais alguns minutos.
+
+Um mordomo já a aguardava aos pés da escada, abrindo um guarda-chuva com precisão ritualística. Sem uma palavra, ofereceu-lhe proteção contra a chuva que batia fina e gelada do lado de fora.  
+Ela assentiu com a cabeça, e os dois partiram.
+
+O chão lá fora era estranho. Algo entre pedra e vidro molhado. Um reflexo distorcido da noite.  
+Convidados passavam apressados ao redor, correndo de um lado para o outro como folhas ao vento.  
+Mas Cassandra seguia com passos firmes, guiada pela figura silenciosa do mordomo.
+
+Nenhum dos dois falou. Nenhum dos dois viu a sombra se aproximar.  
+Foi então que, no meio da escuridão, uma figura tropeçou nela, vinda do nada.
+
+A pessoa caiu com força no chão encharcado, um baque abafado pela chuva.
+
+— _Me desculpa, me desculpa!_
+
+Cassandra parou, instintivamente olhando para baixo. A jovem que agora se levantava era familiar.
+
+— _Você era a pianista que estava tocando agora, certo?_
+
+— _Ai..._ — murmurou a outra, tocando o joelho com cuidado. Era possível ver a pele ralada, o vestido molhado colando nas pernas.
+
+Cassandra deu um passo à frente e falou com gentileza, pedindo desculpas.
+
+A pianista balançou a cabeça..
+
+— _Eu que peço desculpas. Eu não devia estar correndo, me desculpa. Consegue me ajudar um pouco?_ — estendeu a mão com um sorriso envergonhado.
+
+Cassandra a segurou com firmeza e, em silêncio, deixou que a energia curativa fluísse da palma de sua mão. Uma luz sutil, quase imperceptível, percorreu o braço da pianista até o joelho ferido.
+
+— _Opa, vamos levantar. Acho que não foi tão feio._
+
+— _CALMA AÍ QUE TÁ... ué... não tá doendo._
+
+— _Acho que foi mais o susto._
+
+— _Ufa... me desculpe, estou molhando sua roupa bonita._
+
+— _Tudo bem. A festa já acabou._
+
+Houve uma pausa.
+
+A pianista ainda segurava a mão de Cassandra, os olhos fixos no rosto por trás da máscara.
+
+— _Muito obrigada._ — Ela balançou o joelho de leve — _Por acaso... nós já nos encontramos antes?_ — hesitou por um segundo. — _Me perdoe, eu estou de máscara..._
+
+Um assobio cortou a chuva, vindo de algum ponto distante.
+
+— _Okay, me desculpa, e eu agradeço muito!_ — disse ela de repente, soltando a mão de Cassandra e correndo em direção ao som, desaparecendo na noite.
+
+Cassandra ficou ali, sozinha por um instante, com a mão ainda estendida no ar.  
+Sem saber exatamente o que tinha acabado de acontecer, mas com a sensação de que algo nela havia sido tocado também.
+
+Ela respirou fundo, então continuou seu caminho em direção à carruagem número 1.
+
+---
+
+A carruagem número 1 aguardava, grande o bastante para acomodá-los todos, mas ainda assim com o silêncio tenso de uma reunião marcada pelo destino.
+
+Anna entrou primeiro.  
+Nikolai entrou em silêncio. Não fitou ninguém. Apenas se acomodou no canto da carruagem, junto à janela, com uma das mãos no peito e a outra apoiada nos joelhos. Carregava um silêncio pesado, ainda assombrado pelos corredores que deixara para trás.
+Bel veio em seguida. 
+Logo veio Malkieer.
+Cassandra subiu em silêncio, os ombros ainda úmidos da chuva.  
+
+O mordomo os acompanhou até a porta, depois subiu junto, posicionando-se em frente a eles.
+
+— _Senhoras e senhores,_ — começou, a voz firme, mas sem arrogância. — _a competição pelo trono de Barovia será dividida em etapas. Nos primeiros seis meses, vocês atuarão como uma equipe. A coroa valoriza tanto liderança quanto cooperação. Queremos ver como trabalham juntos. Como confiam. Como decidem._  
+Fez uma pausa breve, observando o peso da informação se acomodar em cada rosto.
+
+— _O destino de vocês é a vila de Barovia._  _Sua primeira missão é simples: tornem a vila um lugar melhor._  
+— _Boa sorte. O líder da vila os aguarda._
+
+As rodas começaram a girar. A carruagem partiu.
+
+Por alguns minutos, apenas o som dos cascos e o ranger da madeira preenchiam o espaço. Depois, um a um, começaram a se apresentar.  
+Sem máscaras, sem salão, sem música.  
+Apenas nomes. Vozes.  
+Começos.
+
+Quando chegou a vez de Nikolai, ele não respondeu de imediato.  
+Estava no canto da carruagem, o rosto voltado para a janela, os olhos perdidos entre as sombras da estrada.  
+Uma das mãos repousava sobre o coração, apertando o tecido do traje como se quisesse impedir que algo escapasse dali.
+
+Quando notou o silêncio e os olhares sobre si, sobressaltou-se levemente.
+Pouco depois se apresentou, ainda desconfiado.
+
+Lá fora, o caminho se perdia entre névoa e floresta.  
+O baile havia terminado.  
+Agora, começava algo bem mais difícil.
