@@ -1,1 +1,0 @@
-![[5 andar party.png|420x262]]

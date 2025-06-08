@@ -7,7 +7,7 @@ Guardas da vila estavam espalhados pelas mesas, alguns em trajes desalinhados, o
 Ele contou ao grupo que não conseguiu um lugar adequado para futuros reis morarem, mas poderiam pegar qualquer casa da vila que estiver inabitada.  Desde da guerra de 50 anos atrás, a vila não tem um burgomestre, muitos gastos para eleger e manter um burgomestre, a cidade não consegue arcar. Eles tentam manter a ordem no lugar. 
 — _No fim disso tudo, só quero que digam que foram bem-vindos à vila de Barovia._
 Ele mencionou que, pela quantidade de pessoas, seria sensato partirem rumo ao leste da cidade.  
-Na manhã seguinte, uma lista de tarefas chegaria até eles — trabalhos, necessidades, oportunidades de reconstrução.
+Na manhã seguinte, uma lista de tarefas chegaria até eles, trabalhos, necessidades, oportunidades de reconstrução.
 
 ---
 À **meia-noite**, a equipe se reuniu fora da estalagem.

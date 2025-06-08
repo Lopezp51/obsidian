@@ -1,1 +1,0 @@
-![[3 andar casa party.png|255x306]]
