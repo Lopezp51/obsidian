@@ -693,3 +693,500 @@ Malkieer deixou suas coisas no quarto novo, ainda não acostumado com o espaço,
 Nikolai encontrou outro quarto, mais discreto. Ali dentro havia um alaúde empoeirado apoiado na parede, um objeto antigo, mas bem cuidado. Ele não tocou nas cordas não ainda. Deixou a mochila de lado, sentando-se com cuidado. Retirou pequenos frascos, instrumentos de vidro, um pano limpo. Começou a examinar o próprio corpo como quem estuda um enigma biológico. Tirou uma gota de sangue, observou sua cor, sua espessura. Anotou em um caderninho, seco e direto. Mediu os batimentos. Olhos atentos. Concentração clínica. Depois, com o mesmo cuidado, tratou do ferimento no pescoço, limpando e fechando com um curativo firme. Só então, levantou-se, ajeitou o colarinho e desceu.
 
 Lá no alto da torre, Bel entrava no quarto que escolhera o mais alto, mais isolado, com janelas estreitas e o vento tocando as paredes com dedos gelados. Deixou sua bolsa no chão, pegou seus pertences um a um. Em um canto, desenrolou **uma flâmula de fundo dourado-claro**, com um bordado ornamentado em fios amarelos intensos: **duas espigas curvas se encontrando no centro, envolvendo um arabesco que parecia ao mesmo tempo vegetal e régio**. Um símbolo delicado, quase sereno, que ele pendurou acima de uma pequena mesa. No outro canto, com mais firmeza, prendeu uma segunda flâmula: **cinza-clara com contorno escuro, bordada com um pássaro imponente  uma águia de asas abertas e garras retorcidas, toda feita em marrom escuro, quase como se tivesse sido queimada no tecido com linhas vivas.**
+Bel terminou de arrumar suas coisas com a precisão de um ritual. Dobrou as roupas que não usaria, alinhou os objetos com uma ordem quase inconsciente e, por fim, separou o que levaria para o banho. Cruzou os corredores silenciosos da casa vestindo roupas leves de descanso, os passos firmes, mas desacelerados. No ar, o cheiro dos Gremishkas queimando ainda persistia uma mistura acre e oleosa que se entranhava nas paredes. Era Cassandra, limpando a sujeira com fogo.
+
+Ao entrar no banheiro, Bel encontrou o ambiente morno, a umidade ainda recente. Na banheira, repousava um frasco de poção vazio, encostado no ralo como uma garrafa naufragada, após o banquete de um pequeno mostro.
+
+---
+Enquanto isso, na sala de jantar, Anna esperava. Sentada com as pernas cruzadas na cadeira, o livro de capa remendada repousava em seu colo. O **Diário de Eruth** não era o que ela esperava. Não havia revelações claras, nem histórias lineares. Era... confuso. Como uma conversa com alguém que só falava enquanto dormia.
+
+As primeiras páginas eram sonhos infantis distantes, inofensivos, quase tolos. Esboços de medos mal compreendidos, desejos vagos, pedaços de realidade borrados pela imaginação. Mas conforme as páginas avançavam, a escrita mudava. As letras ficavam mais tensas, mais rápidas. Os relatos, mais fragmentados.
+
+Alguns trechos eram curtos demais. Apenas frases quebradas:
+
+**“Eu não quero sonhar com isso novamente.”**
+
+**“Eu sonhei com os demônios novamente”**
+
+
+À medida que Anna avançava, notava menções soltas a outros membros da família. Mas os nomes iam desaparecendo. 
+
+As últimas páginas pareciam desesperadas. Como se Eruth estivesse tentando se convencer de que ainda estava acordada.
+
+E então, quase no fim, uma mudança súbita de tom.
+
+**“Sonhei que eu era uma artista, agora eu consigo fazer um retrato de mim mesma.”**
+
+Anna virou a página.
+
+No lado oposto, desenhado com carvão, havia o retrato.
+
+Uma mulher jovem. Ou talvez uma garota. Os olhos pareciam opacos, como se tivessem sido apagados pelo grafite esfregado com força. Fios de algo talvez cabelo, talvez sombra serpenteavam em volta do rosto e se infiltravam entre os dedos dela, que seguravam a cabeça como quem tenta conter um pensamento que escapa.
+
+Ao fundo, formas distorcidas surgiam como vultos famintos. Dentes. Garras. Sorrisos abertos demais. O traço era detalhado, quase obsessivo, como se cada ponto tivesse sido colocado à força, um a um.
+
+Foi quando os passos começaram a soar nos corredores. O grupo começava a se reunir para o jantar. Anna guardou o diário para continuar a leitura depois.
+
+---
+Agora todos estavam reunidos na sala de jantar.. E mesmo tendo enfrentado criaturas lado a lado, ainda eram cinco estranhos. O silêncio entre eles era denso, não por falta de assunto, mas por excesso de distância. Havia algo no ar que ainda não havia sido rompido: **desconfiança**.
+
+Nikolai foi o primeiro a falar. A voz dele quebrou o silêncio como uma colher batendo em porcelana.
+
+— Eu preciso contar uma coisa pra vocês. Sim, eu estava um pouco nervoso e... confesso que eu menti aquela hora pra vocês, porque eu não sabia se podia confiar.
+
+Cassandra, apoiada na parede e os olhos fixos nele, perguntou com ironia contida, a lembrança ainda viva:
+
+— Que você come papel?
+
+Nikolai hesitou. Depois respondeu:
+
+— É... eu não como papel.
+
+Cassandra trocou um olhar com Bel. Foi rápido, quase imperceptível.
+
+Bel cruzou os braços e disse, com o tom de quem já sabia a resposta:
+
+— Meio que tava na cara que você não comia papel, Nikolai.
+
+— Peço perdão. Eu tava nervoso na hora. O papel que eu encontrei falava dos bichos que a gente enfrentou. Tinha algumas anotações deles... e falava também que os sonhos dela se tornavam realidade. Eu acho que a gente deve tomar cuidado com tudo que estiver escrito nesse livro. Porque os animais que a gente viu... eram do sonho dela. É bom a gente ler atentamente o que ela sonhou.
+
+Anna ainda segurava o diário no colo quando levantou os olhos para Nikolai.
+
+— Assim... ela morreu tem um tempo. Acha que alguma coisa ainda pode virar realidade?
+
+Nikolai deu de ombros, pensativo, mexendo em um pedaço de tecido sobre a mesa.
+
+— Pode ser que já tenha virado realidade. Igual aquelas criaturas. A gente só não achou ainda, talvez.
+
+Nesse momento, um **raio estalou lá fora**, iluminando o salão por um segundo com uma luz fria e branca. O trovão veio logo em seguida, e o grupo, num reflexo coletivo, virou-se para a janela.
+
+Lá fora, na chuva, parado como uma estátua, **estava o cavalo de Nikolai**.
+
+Todos se assustaram por um breve momento. Depois, quase ao mesmo tempo, riram. Um riso leve, de alívio. De quem precisava rir de alguma coisa, mesmo que fosse do inesperado.
+
+— Eu vou continuar lendo — disse Anna, com a voz mais calma. — Se achar algo mais específico, eu aviso.
+
+Cassandra, ainda de pé, acrescentou:
+
+— Se achar que tem algo fora do normal acontecendo com você... avise também.
+
+Anna apenas assentiu com a cabeça, sem palavras, mas com um peso novo no olhar.
+
+Bel olhou ao redor e então perguntou:
+
+— Bem... vamos comer?
+
+Cassandra arqueou a sobrancelha.
+
+— Tem algo pra comer?
+
+Nikolai, sem perder o tom, virou-se lentamente em direção à lareira.
+
+— Tem gato frito — disse, com um olhar direto para as chamas.
+
+Malkieer, o encarou com um ar de falsa ofensa:
+
+— Eu não sou comentável.
+
+Nikolai abriu um sorriso, como quem arma a frase com cuidado.
+
+— Eu disse gato, não **gatinho**.
+
+Por um momento, a tensão se dissolveu. Cassandra, agora mais solta, voltou ao assunto:
+
+— Mas deve ter algo pra usar. Vocês têm alguma coisa com vocês pra comer?
+
+Anna foi a primeira a agir. Pegou da bolsa alguns biscoitos embrulhados, pedaços de carne seca e um pequeno saco de folhas para chá. Começou a dispor tudo sobre a mesa, com movimentos simples e práticos. Malkieer colocou algumas rações de viagem do lado, um gesto discreto, mas útil.
+
+Com delicadeza, Anna separou pequenas porções de folhas secas e começou a distribuí-las entre os copos disponíveis. 
+
+Bel, por fim, sentou-se à mesa e disse:
+
+— Não precisam se preocupar com comida pra mim. Eu tenho os suprimentos que minha casa me deu.
+
+Um a um, todos se acomodaram ao redor da mesa.
+
+Alguns apenas beliscaram o que havia ainda saciados pelo jantar do baile, ainda digerindo o que tinham vivido. Outros comeram em silêncio, com a boca cheia e a mente longe.
+
+---
+Entre mordidas silenciosas e goles de chá ainda quente, Cassandra quebrou o fluxo morno da conversa com um comentário direto, os olhos atentos observando os outros.
+
+— Pelo que notei, Anna e Nikolai não tão acostumados com combate corpo a corpo. Qual a especialidade de vocês?
+
+Nikolai foi o primeiro a responder, endireitando a postura com um certo orgulho contido.
+
+— A mente. Eu gostaria que vocês tivessem ouvido a minha estratégia antes, mas confesso que foi bom também ver que vocês são bons em combate. Eu acho que preciso de uma arma pra minha proteção... não foi uma boa ideia vir desarmado.
+
+Anna assentiu devagar, e depois respondeu com sinceridade:
+
+— Eu sou uma wizard, e minha especialidade são magias de gelo.
+
+Cassandra deu um leve sorriso, seco, quase um comentário mordaz vindo com ele.
+
+— Teria sido perfeito, se não fosse um combate contra esses Gremishkas.
+
+Anna respirou fundo, olhando para a caneca de chá à sua frente.
+
+— Confesso que naquele momento eu me senti despreparada. Mas que bom que eu não entrei em pânico.
+
+Ela soltou um meio sorriso tímido. Ainda com os olhos cansados. Ela sabia que todos tinham visto ela chorou muito na hora. Mas ali, naquela fala contida, havia uma fagulha de orgulho. 
+
+Bel apoiou os cotovelos na mesa, cruzando os dedos.
+
+— Acho que não tinha como se preparar. Ninguém tinha visto aquele tipo de animal.
+
+Foi quando Malkieer, com um brilho nos olhos, entrou na conversa:
+
+— Bom, eu tenho as mãos leves... digamos assim.
+
+Ele olhou discretamente para o chicote pendurado no cinto de Cassandra, a mão levantando instintivamente pensou em pegá-lo com sua _mage hand_, só de brincadeira. Mas a lembrança do convite arrancado do Bel no baile veio rápido demais. Má primeira impressão. Ele baixou a mão e continuou com um sorriso:
+
+— Mas também sou bom em magias de ilusão.
+
+Com um estalar de dedos, a imagem dele começou a distorcer por um instante. E então, sentado no mesmo lugar, estava **Anna**. Mesma postura. Mesmo rosto. Até o tom dos olhos tentando imitar a hesitação que ela costumava carregar.
+
+Nikolai soltou um:
+
+— Nossa, como você fez isso?
+
+O sorriso era largo, quase infantil. Um brilho genuíno no olhar não de quem não sabia, mas de quem se empolga com o truque que conhece.
+
+— Caraca, o cara é bom mesmo.
+
+Ele puxou o bandolim com um gesto quase teatral, como quem apresenta um número de palco.
+
+— Eu sei tocar música.
+
+E começou a dedilhar uma melodia leve, simples, mas encantadora o som do alaúde encheu a sala com uma vibração suave, quase mágica, como se por um instante a casa respirasse de forma diferente.
+
+Nikolai, ainda dedilhando o bandolim, comentou com um sorriso confiante:
+
+— Eu consigo dar uma animada na equipe quando precisar.
+
+Bel assentiu, e quando falou, sua voz vinha com mais firmeza — como quem carrega um brasão invisível.
+
+— Bem, como vocês viram, eu também sou um lutador corpo a corpo. Sou um cavaleiro da minha casa. A Casa Van der Vort, de Vallaki. Eu fui treinado por eles e sou um cavaleiro indicado pela casa. Acho que a gente se complementa bem na equipe. Não vejo nenhuma habilidade que atrapalhe a outra... acho que a gente vai se dar muito bem.
+
+Aos poucos, a conversa mudou. Passaram a falar sobre a vila de Barovia sobre o que teriam que fazer ali, como poderiam melhorar as coisas. Naturalmente, o assunto deslizou até o tema do burgomestre. A vila ainda não tinha um. Era um posto vago, uma ausência sentida.
+
+Anna comentou, mexendo em sua xícara de chá:
+
+— Em Vallaki, os burgomestres veem de uma linhagem. A família Watcher, vindos de antes da guerra.
+
+Nikolai completou:
+
+— Em Krezk, o burgomestre foi indicado pelo rei Strahd. Pelas conquistas que ele fez na guerra.
+
+Cassandra olhou para ele, curiosa:
+
+— Você sabe algo do burgomestre, por acaso?
+
+Nikolai pensou por um instante, depois respondeu:
+
+— Pouca coisa. Eu não tive muito contato com ele. Ele é meio reservado. Nunca vi ele pessoalmente.
+
+Cassandra assentiu.
+
+— Pouca gente vê.
+
+Anna, sem levantar o olhar, comentou:
+
+— O de Vallaki não é muito diferente. Ele basicamente não liga pra nenhum dos filhos... a menos que consiga ganhar alguma coisa com isso.
+
+Malkieer então lançou a pergunta com um tom leve, mas o olhar atento:
+
+— E você pretende subir pra realeza de Barovia pra mudar isso, Anna?
+
+Anna pareceu se distrair por um instante com a pergunta. Depois respondeu, como se retomasse o próprio fio do pensamento:
+
+— Não, não... eu acho que já tá meio definido que meu irmão vai substituir ele. Apesar de ele ser um inútil. E acho que minha irmã tem planos diferentes. Muito maiores. E mais perigosos. Ela dá calafrios.
+
+Malkieer inclinou-se levemente à frente, os olhos semicerrados.
+
+— Inclusive, eu queria perguntar sobre isso. O que ela fez com seu irmão? Ou melhor... como ela fez aquilo?
+
+Anna respirou fundo. A resposta parecia já pronta, mas carregava um peso antigo.
+
+— Se você quer saber... o burgomestre contratou, muito tempo atrás, uma professora pra ensinar nós três magia. Essa professora era uma protegida de um mago famoso da cidade. E ela ensinou a mesma magia pra todos nós. Eu levei dois anos pra aprender o básico do que ela sabia. Meu irmão desistiu e decidiu balançar aquela espada do jeito mais inútil possível. E minha irmã... aprendeu tudo o que ela tinha pra ensinar em dois dias. Depois disso, só disse que ia continuar os estudos sozinha. E buscar fontes alternativas.
+
+Cassandra levantou o olhar.
+
+— Isso há quantos anos?
+
+Anna olhou brevemente para Malkieer antes de responder.
+
+— A gente era adolescente na época. Uns sete anos atrás.
+
+Ela voltou os olhos para ele.
+
+— Se você quiser saber como ela faz isso... seu palpite é tão bom quanto o meu. Alguma coisa sinistra ela fez.
+
+Cassandra levou um tempo antes de comentar, apoiando o queixo nos dedos:
+
+— Ela também quer o trono de Barovia?
+
+Depois de um segundo de silêncio, ela mesma completou com um meio sorriso cansado:
+
+— Bom... acho que todo mundo quer, na verdade. Se não, não estaríamos aqui.
+
+Anna recostou na cadeira, cruzando os braços, e disse num tom mais pensativo:
+
+— Eu acho que ela quer mais o poder ligado ao trono, sabe? Não necessariamente governar.
+
+Bel inclinou a cabeça, curioso:
+
+— E você sabe qual equipe que ela tá?
+
+— Eu tô na um. Meu irmão foi pra dois. E ela foi pra três. E, honestamente... eu tenho pena das pessoas que foram com ela.
+
+Cassandra deu uma piscada sutil para Anna.
+
+— Eu acho que a gente se deu bem.
+
+Bel riu com leveza e respondeu:
+
+— Olhando dessa forma, a gente vai passar um ano juntinho. E acho que, se a gente conseguir passar bem, eu com certeza preferia competir com pessoas dignas como vocês do que qualquer outro, sabe?
+
+Malkieer lançou um olhar meigo para Bel, os olhos suaves, sem dizer nada.
+
+Cassandra, ainda mais séria, acrescentou:
+
+— Seria bom se não tivesse ninguém passando a perna em ninguém. Se a gente tiver isso no grupo, outras equipes podem fazer o mesmo.
+
+Nikolai respondeu com firmeza:
+
+— Na verdade, honestidade acima de tudo.
+
+Anna virou o rosto lentamente para ele, o encarando com uma expressão que deixava claro que lembrava bem do histórico dele até agora.
+
+Bel retomou o foco:
+
+— Você tem um bom ponto, Cassandra. O ano, a princípio, vai ser assim, né? A gente na vila de Barovia. Essa cidade, até onde sei, não é das maiores. Então pode ser que em menos de um ano a gente faça algo significativo... vai que nos colocam em outra cidade, ou em outro lugar. Ou até mesmo pra fazer outra coisa.
+
+Anna mexeu na manga da blusa, refletindo em voz alta:
+
+— A cidade tem uma certa “reputação”. Se fosse tão fácil fazer alguma coisa boa por ela, acho que ela não estaria nesse estado por tanto tempo.
+
+Bel assentiu.
+
+— Sim, ela parece estar bem abandonada. Sem burgomestre, sem liderança, sem imagem de progresso pra cidade.
+
+Anna respirou fundo antes de dizer:
+
+— Eu não sei por quê, mas eu tenho essa impressão de que, com essa cidade... o buraco é mais embaixo.
+
+Bel apoiou o queixo em uma das mãos.
+
+— Eu não duvido que a gente passe de ajudar com problemas cotidianos do pessoal... pra algo mais sério da cidade depois.
+
+— Tipo um ninho de Gremishkas? — disse Anna, soltando uma risada.
+
+Bel riu junto, balançando a cabeça:
+
+— É, eu não esperava encontrar esses gatos quando a gente chegou nessa casa.
+
+Nikolai olhou para o diário de Anna sobre a mesa.
+
+— Pode ser que os sonhos dessa moça do livro não estejam só vinculados a essa casa. Podem ter se espalhado pela cidade.
+
+Bel ficou em silêncio por um instante. Depois falou, pensativo:
+
+— Essa é a dúvida que eu tive pra Anna anteriormente... Onde está ela, né? Será que ainda está por aqui? Não sei.
+
+Anna respondeu devagar:
+
+— A gente pode perguntar mais sobre ela amanhã. Será que tem uma biblioteca por aqui?
+
+Cassandra refletiu.
+
+— Boa pergunta. Aqui, não sei se guardam tanto conhecimento. Em Krezk, eu falaria que sim. Mas aqui...
+
+Bel completou:
+
+— Pela primeira impressão da cidade, os problemas aqui são um pouco mais estruturais. Não deve ter nenhum ensino, talvez. E considerando que tem várias casas abandonadas... então não sei.
+
+E então veio o silêncio.
+
+Não desconfortável. Mas denso. Como se todos tivessem chegado à beira de algo mas nenhum soubesse ainda o que dizer a seguir.
+
+O silêncio pairava ainda, espesso como neblina. A lareira estalava devagar, preenchendo a ausência de palavras. Foi Cassandra quem o quebrou, sua voz vindo firme, mas sem dureza.
+
+— Vocês comentaram da gente confiar um no outro. Só pra eu ter uma ideia, não sei se querem falar sobre isso,  o que vocês gostariam de fazer estando no posto de rei ou rainha de Barovia, no lugar de Strahd?
+
+Houve uma pausa, curta, mas real. Então, Anna respondeu de imediato, quase como se já tivesse ensaiado aquilo internamente.
+
+— Honestamente, eu não planejo ganhar a competição. Acho que eu tô mais aqui por curiosidade.
+
+E a sinceridade crua das palavras caiu sobre o grupo como uma pedra no meio do lago. Outro silêncio veio. Não de julgamento, mas de cautela. Ainda era difícil confiar por completo.
+
+Anna continuou, um pouco mais baixa, mas com um toque de provocação leve:
+
+— Mas eu tô curiosa pra saber o que vocês vão fazer.
+
+Bel apoiou os cotovelos na mesa e cruzou os dedos à frente.
+
+— Pois é, é como a Anna falou... sobre a posição de poder. O que é ser um rei, um monarca em Barovia? Eu acho que isso é um pouco do que me atrai também. É você poder ser a mudança. Essas terras têm muita...
+
+Ele gesticulou com as mãos, procurando as palavras. O olhar, por um instante, pareceu distante.
+
+— ...têm muita coisa ruim. Tem muita crueldade. Tem muita coisa que não precisava, e eu já olhei nos olhos dessas coisas e percebi que não precisava. Principalmente em Vallaki. De Barovia, eu não sei... a gente acabou de chegar. Mas ter o poder de um rei parece que é o passo certo pra fazer essa mudança.
+
+Cassandra assentiu lentamente. Sua voz veio mais leve, quase suave.
+
+— Isso eu posso concordar com você, Bel. O meu objetivo segue quase que na mesma linha. É simples, mas... eu quero que Barovia seja um lugar que valha a pena morar. Hoje dá pra ver que o reino brilha em alguns lugares, mas tem lugares... tem lugares com uma infecção. E só sendo queimada até a raiz que dá pra eliminar.
+
+Ela pausou. Respirou fundo. A postura firme se desfez por um instante, algo que nem mesmo todas aquelas criaturas a atacando havia sido capaz de fazer. E, com um tom mais vulnerável, completou:
+
+— E eu quero um lugar bom. Um lugar que a minha menina possa viver... e sorrir.
+
+Anna a encarou, surpresa, com as palavras ainda ecoando:
+
+— Sua menina?
+
+Bel olhou também, com o cenho levemente franzido.
+
+— Você tem uma filha?
+
+Cassandra ajeitou-se na cadeira, o olhar distante por um breve instante.
+
+— Mais mãe de coração, talvez — disse, com um tom mais baixo. — Fui mais uma guardiã dela, quando ela tinha seis anos. Naquela época, o mundo parecia um quarto vazio… sem porta, sem janela, sem saída.
+
+Ela sorriu, quase com ternura.
+
+— Ela foi como uma vela deixada por engano naquela escuridão. Uma chama pequena, mas muito teimosa. Foi ela quem me deu propósito. E, pra falar a verdade… acho que foi ela quem cuidou mais de mim do que eu dela.
+
+Anna sorriu de leve, com sinceridade nos olhos.
+
+— Eu tenho uma mãe de criação também — disse, suavemente. — E eu amo ela mais que tudo.
+
+Algo ressoou dentro de Cassandra ao ouvir aquilo. Ela assentiu, com um sorriso breve.
+
+— Fico feliz em ouvir isso.
+
+Bel recostou-se, cruzando os braços com um ar reflexivo.
+
+— Então temos mais em comum do que eu esperava também.
+
+Do outro lado da mesa, Malkieer apoiou os cotovelos no tampo e deixou escapar, com um sorriso quase tímido:
+
+— Eu me sinto mais feliz… e mais sortudo por estar nessa equipe. Acho que era isso que eu queria dizer pra você naquela festa, Bel. Às vezes eu me enrolo com as palavras.
+
+Ele hesitou por um instante, depois continuou:
+
+— Eu não tenho intenção de chegar ao trono. Mas se for pra ajudar alguém a chegar lá… que seja alguém com o coração bom. A única coisa que eu quero mesmo é ajudar alguns amigos meus. E não preciso de uma coroa pra isso.
+
+Houve uma pausa, breve, mas carregada de sinceridade.
+
+— Mas… se alguém com poder puder me ajudar com isso, já estarei satisfeito.
+
+Cassandra inclinou a cabeça, a voz gentil:
+
+— Bem nobre da sua parte também, Malkieer. Eu acho que você caiu no time certo.
+
+Ela olhou ao redor da mesa. Anna sorriu, Malkieer também. Bel, com aquele sorriso tranquilo de quem começa a confiar.
+
+Mas Nikolai… ele não sorria. Um momento raro para ele.
+
+Anna o notou.
+
+— Tá tudo bem? — perguntou, preocupada.
+
+— Não, tá tudo bem, ah… — disse Nikolai, mas sua voz traiu a hesitação que sentia.
+
+Houve uma pausa. Ele olhou para os próprios dedos apoiados sobre a mesa antes de continuar, com um tom mais contido:
+
+— Eu acho que, ao contrário da Cassandra, eu tive mais arrancado de mim do que eu recebi. Eu concordo com vocês, acho que tem pontos a melhorar… e eu tentaria melhorar esses pontos de alguma forma.
+
+Ele parou outra vez, como se pesasse bem as próximas palavras, e então ergueu o olhar.
+
+— O que vocês acham do rei Strahd? Vocês acham que ele é uma boa pessoa?
+
+Anna foi a primeira a responder, com um leve encolher de ombros.
+
+— Pra ser sincera, eu não ouvi muito dele. Eu cresci numa família que me protegia bastante das coisas, então não tenho muito acesso às notícias que vêm de fora. Exceto essa... de que ele escolheria um herdeiro essa notícia foi pra todo lado.
+
+Bel respirou fundo antes de falar.
+
+— Minha criação não foi muito política… ou escolarizada. Não sei muita história sobre o rei, se ele fez bem ou mal. Mas o que eu sei é que ele deixou acontecer muita coisa... que não precisava.
+
+Ela fez uma pausa breve.
+
+— E o que eu ouvi lá no baile... ele tem uma fala bem estranha, com certeza. Esse negócio de passar o trono parece ser um pouco mais do que só deixar o trono pra outra pessoa.
+
+Cassandra se inclinou levemente à frente.
+
+— Levando em conta o histórico dele… e das pessoas com quem ele é próximo, até onde eu sei… alguns lugares estão realmente ruins, como a vila de Barovia. E tem coisas embaixo da superfície. Eu acho que, nesse tempo todo no poder, ele poderia ter feito alguma coisa.
+
+Ela cruzou os braços, pensativa.
+
+— Então ou ele realmente não sabe o que está acontecendo… ou só está ignorando esses males que acontecem na terra dele.
+
+Bel assentiu.
+
+— Eu acho que um monarca não pode deixar de olhar para as suas terras. Se ele faz isso… quão bom ele realmente é para o seu povo?
+
+Nikolai ergueu uma das sobrancelhas e, com um meio sorriso, replicou:
+
+— Você falou que não tem muito estudo sobre isso… mas a história é sempre escrita pelo lado vencedor, né? Então… acho que até quem tem estudo pode estar enganado sobre algumas coisas.
+
+— O passado é um mistério nesse lugar — comentou Cassandra, quebrando o silêncio que pairava.
+
+— Até onde eu sei, a gente não tem muita informação antes da guerra — disse Anna, apoiando o queixo nas mãos.
+
+— Eu sei da guerra que houve há cinquenta anos — continuou Cassandra —, mas antes disso... não tenho a menor ideia.
+
+Foi então que Nikolai deixou escapar um sorriso sutil, quase travesso.
+
+Anna ergueu os olhos para ele, desconfiada.
+
+— Você sabe de alguma coisa, Nikolai?
+
+— Digamos que eu vi e li muito mais do que eu gostaria. Fui atrás de informação e... realmente parece que, em algum momento, a história se perde. Pra ser mais preciso: cem anos atrás.
+
+— O que aconteceu cem anos atrás? — perguntou Anna, inclinando-se um pouco à frente.
+
+— Eu não sei. Não existe relato histórico de cem anos atrás em nenhum lugar. E olha que eu procurei muito.
+
+Cassandra assentiu devagar, pensativa.
+
+— O que sabemos é que Strahd foi coroado na última guerra... há uns cinquenta e poucos anos, né?
+
+— Foi isso que ele falou no discurso dele mesmo — confirmou Bel.
+
+— Não sei como estava essa terra antes — disse Cassandra. — Se já tinha um rei… se era ou não ele desde o começo.
+
+Anna olhou para os outros, hesitante.
+
+— Vocês acham que ele parecia ter cem anos?
+
+Um silêncio se instalou. Todos refletiam sobre o que tinham visto no baile. Até então, tinham convivido apenas com pessoas em torno de quarenta anos,.
+
+— Ele deve ter magos com ele também — arriscou Cassandra. — Pra manter a aparência, quem sabe.
+
+— O que eu sei — acrescentou Bel —, como a gente viu no baile... com a irmã da Anna, por exemplo... é que tem alguns poderes aqui que não fariam isso ser impossível. É bem provável que ele possa cuidar da aparência magicamente.
+
+— Ela é um caso à parte — murmurou Anna. — Eu não sei de onde ela tira os poderes dela, mas tenho certeza de que não é um lugar bom. E, se Strahd tira os poderes do mesmo lugar... então me preocupa o futuro deste reino.
+
+— Uma coisa também... — disse Bel, olhando para os demais —, não sei se vocês já viram eles antes, mas eu nunca tinha visto o próprio rei. Nem mesmo o conselheiro.
+
+— O Khazam? — perguntou Cassandra.
+
+— Isso. Parece que ele foi conselheiro de guerra, né? Se a gente passar por Vallaki, eu posso perguntar pra minha casa se tem informações sobre ele.
+
+— Qual o nome da sua casa mesmo? — perguntou Cassandra.
+
+— Van der Vort.
+
+O nome soou familiar. Cassandra não sabia exatamente de onde, mas tinha a impressão de que já ouvira aquele nome durante a guerra. As especificidades, no entanto, se perdiam na névoa da memória.
+
+Horas se passaram. Quando enfim alguém notou, já se aproximavam das quatro da manhã.
+
+— Meu Deus… — exclamou Bel.
+
+— A gente precisa dormir, galera — disse Anna, se levantando.
+
+— A gente ainda vai ter muito tempo pra conversar — garantiu Cassandra, começando a empilhar os pratos da refeição.
+
+Enquanto organizavam a louça e recolhiam as sobras, uma névoa pesada começou a cobrir a vila de Barovia. A neblina matinal, que parecia nunca se ausentar daquelas terras, envolvia agogrira as casas como um véu antigo.
+
+E com essas convicções alinhadas, com os olhos cansados e os corações um pouco mais aquecidos, o grupo se recolheu. Ainda havia segredos e feridas não reveladas… mas, por ora, eles estavam juntos. E isso era o suficiente para seguir mais um dia.
