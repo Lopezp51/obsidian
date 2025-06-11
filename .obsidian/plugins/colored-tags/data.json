@@ -13,7 +13,9 @@
     "vampire": 1,
     "vampiro": 2,
     "Vampire": 3,
-    "Vampiro": 4
+    "Vampiro": 4,
+    "npc": 5,
+    "ficha": 6
   },
   "_version": 3
 }

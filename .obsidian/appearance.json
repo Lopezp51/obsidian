@@ -1,1 +1,10 @@
-{}
+{
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "npc-card",
+    "npc-dataview",
+    "npc-card copy"
+  ]
+}

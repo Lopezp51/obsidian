@@ -1,5 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "Campanhas/Curse Of Strahd/Imagens"
+  "attachmentFolderPath": "Campanhas/Curse Of Strahd/Imagens",
+  "defaultViewMode": "source",
+  "autoConvertHtml": true,
+  "livePreview": true
 }

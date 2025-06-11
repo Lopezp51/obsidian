@@ -1,3 +1,17 @@
 {
-  "supercharged-links@@f155-c73b-color": "#B8E067"
+  "supercharged-links@@f155-c73b-color": "#B8E067",
+  "ITS@@its-d": false,
+  "ITS@@notion": false,
+  "ITS@@accent-color": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": false,
+  "ITS@@select": "none",
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@ITS-Sizes": "sizing-mini",
+  "ITS@@radius-s": 0,
+  "ITS@@scrollbar-width": 12
 }
