@@ -12,5 +12,6 @@
   "obsidian-image-toolkit",
   "homepage",
   "custom-node-size",
-  "persistent-graph"
+  "persistent-graph",
+  "dataview"
 ]
