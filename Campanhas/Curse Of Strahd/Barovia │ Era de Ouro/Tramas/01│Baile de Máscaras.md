@@ -1,16 +1,22 @@
+### **1.1 -** A Chegada à Sombra de Ravenloft
+Após longos dias de viagem, alguns partindo até mesmo na véspera, os viajantes finalmente avistaram o destino final. Cavaleiros, carroças e mercadores seguiam pela trilha sinuosa que cortava as montanhas até alcançar o topo, onde se erguia imponente o [[Castelo Ravenloft]].
 
-![[Castelo Ravenloft.png|Castelo Ravenloft|288x289]]Após longos dias de viagem, alguns partindo até mesmo na véspera, os viajantes finalmente avistaram o destino final. Cavaleiros, carroças e mercadores seguiam pela trilha sinuosa que cortava as montanhas até alcançar o topo, onde se erguia imponente o [[Castelo Ravenloft]].
+<figure style="float: right; margin: 0 1.5rem 1rem 0; width: 300px; text-align: center;">
+  <img src="Castelo Ravenloft.png" alt="Castelo Ravenloft" style="width: 100%; border-radius: 8px;" />
+  <figcaption style="font-size: 0.85rem; color: #888;">Castelo de Ravenloft</figcaption>
+</figure>
 
-
-No alto, a fortaleza lançava sua vasta sombra sobre toda a vila de Barovia, como se o próprio castelo vigiasse, silencioso e eterno, os passos daqueles que ousavam se aproximar.
-
-O som de rodas sobre pedras, cascos batendo no solo e vozes em línguas variadas preenchia o vale. O aniversário do rei, como de costume, era celebrado todos os anos, mas jamais com tamanha movimentação. Normalmente, restrito a convidados muito específicos, escolhidos a dedo. Dessa vez, algo era diferente. Carroças iam e vinham, trazendo rostos que não costumavam cruzar os portões de Ravenloft. 
+<p>No alto, a fortaleza lançava sua vasta sombra sobre toda a vila de Barovia, como se o próprio castelo vigiasse, silencioso e eterno, os passos daqueles que ousavam se aproximar.</p>
+<p>O som de rodas sobre pedras, cascos batendo no solo e vozes em línguas variadas preenchia o vale. O aniversário do rei, como de costume, era celebrado todos os anos, mas jamais com tamanha movimentação. Normalmente, restrito a convidados muito específicos, escolhidos a dedo. Dessa vez, algo era diferente. Carroças iam e vinham, trazendo rostos que não costumavam cruzar os portões de Ravenloft.</p>
 
 À medida que se aproximavam do castelo, a primeira coisa que se destacava era a enorme ponte levadiça, suspensa sobre o abismo que cercava toda a fortaleza, uma garganta de pedra e névoa que parecia separar o mundo dos vivos do domínio que repousava além dos portões de Ravenloft.
 
-![[servos_castelo_strahd.png]]Logo antes da entrada, uma grande tenda foi erguida, funcionando como um ponto de controle. Ali, os servos — todos usando as mesmas máscaras que ocultavam a parte superior do rosto, recepcionavam os convidados, conferindo convites, inspecionando vestimentas e realizando uma rigorosa revista antes de permitir a entrada no castelo.
+Logo antes da entrada, uma grande tenda foi erguida, funcionando como um ponto de controle. Ali, os servos — todos usando as mesmas máscaras que ocultavam a parte superior do rosto, recepcionavam os convidados, conferindo convites, inspecionando vestimentas e realizando uma rigorosa revista antes de permitir a entrada no castelo.
 
----
+<figure style="float: right; margin: 0 0 1rem 1.5rem; width: 700px; text-align: center;">
+  <img src="servos_castelo_strahd.png" alt="Servos do castelo" style="width: 100%; border-radius: 8px;" />
+  <figcaption style="font-size: 0.85rem; color: #888;">Servos do castelo</figcaption>
+</figure>
 
 Foi ali, diante daquela tenda, ainda sem saber que seus destinos estavam prestes a se entrelaçar, que eles chegaram, uma futura [[Party]] unida:
 
@@ -24,14 +30,15 @@ Bel, conduzindo seu corcel branco, Anjo, com a elegância de quem sabe que aquel
 
 E, por fim, Cassandra, que se aproximava montada em sua égua de pelagem negra, Agro, cavalgando com a precisão de quem conhece bem os próprios passos, mas talvez jamais um caminho como aquele.
 
----
 Ao cruzarem os portões do castelo, foram imediatamente tomados por uma atmosfera decadente e opulenta. O som profundo de um órgão ecoava pelas paredes de pedra, preenchendo cada arco, cada fresta, com notas que soavam quase como preces distorcidas. Taças de vinho tilintavam por todos os lados, e a festa já estava em pleno andamento.
 
+### **1.2 -**  Salões, Retratos e Silêncios
 Os convidados “especiais” começaram a explorar os salões, sendo rapidamente atraídos por uma série de retratos antigos que decoravam as paredes. Entre eles, destacava-se uma pintura dos pais de [[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich|Strahd von Zarovich]] , ladeados pelo próprio rei em seus anos de juventude, um rosto mais jovem, mas cujos olhos já carregavam as mesmas sombras de agora.
 
-![[pais de strahd.png|295x331]] ![[retrato de strahd mais novo.png|241x331]]
-
----
+<div class="npc-gallery">
+  <img src="retrato de strahd mais novo.png" alt="strahd mais novo" style="width: 45%; border-radius: 8px;" />
+  <img src="pais de strahd.png" alt="pais de strahd"style="width: 45%; border-radius: 8px;" />
+</div>
 
 Pelos salões, Anna avistou uma pianista, tocando uma melodia delicada, quase etérea, que parecia destoar da imponência do órgão. Fascinada pela música, ela se aproximou… mas não ficou sozinha por muito tempo.
 
@@ -49,14 +56,13 @@ Sem dizer uma palavra, a mulher se virou e começou a subir, com passos elegante
 
 Anna sabia que deveria sua irmã ([[Irmã da Anna]]).
 
----
-
 Ao longo da noite, antes do pronunciamento do rei, ocorreram algumas interações discretas entre os convidados.  
 Malkieer puxou conversa com o enigmático **[[Máscara de Ovelha]]**, um homem imponente, com quase dois metros de altura.  
 Bel passou parte da noite acompanhada por **[[Máscara de Sangue]]**, com quem dividiu palavras.  
 Já Cassandra permaneceu na sala de jantar, escutando a música suave da **[[Pianista]]**, uma mulher de cabelos negros, cujos olhos, sempre à sombra, ocultavam qualquer cor. Ao seu lado, imperturbável, estava o guarda-costas **[[Escher]]**.
 
----
+### **1.3 -**  Sussurros entre as Máscaras
+
 Após algum tempo, todos se reuniram no andar superior para ouvir o pronunciamento do rei.  
 Sentado em seu trono, ele exibia cabelos grisalhos e uma postura encurvada pelo peso dos anos, e, ainda assim, sua presença preenchia o salão com autoridade. Ao seu lado, permanecia imóvel uma figura usando uma máscara de caveira, seu conselheiro de guerra, [[Khazan, Conselheiro do Rei]].
 
@@ -80,37 +86,32 @@ O rei se levantou com esforço contido e, erguendo a voz, deu início ao discurs
 
 Ele ergue a taça de vinho, e o salão responde com aplausos. A música recomeça, e as festividades têm início.
 
----
-
 Após o pronunciamento, Nikolai entrou na fila para conversar com o rei. Quando chegou sua vez, perguntou a Strahd há quanto tempo ocupava o trono. O rei respondeu com naturalidade: já se passaram 66 anos desde que conquistou as terras bárbaras de Borgora, e foi logo após essa vitória que assumiu a coroa. Durante a conversa, Strahd também comentou que sabia que Nikolai vinha de Krezk, e percebeu sua ligação com uma academia.
 
----
 Anna tentou se enturmar, já que não conseguiu chegar perto da irmã. Conversou brevemente com alguns homens excessivamente convencidos de si mesmos, mas logo perdeu o interesse.
 
 Em seguida, aproximou-se de Nikolai para iniciar uma conversa. Ele evitou falar diretamente sobre seu ramo de pesquisa, mantendo-se vago. Anna, por sua vez, comentou que não teve o privilégio de uma educação refinada como a dele, ao menos não o suficiente para seguir uma carreira acadêmica. Em meio ao diálogo, ela o questionou sobre a ausência de registros de antes da guerra, mas o bardo se esquivou, não revelando nada.
-
----
 
 Assim como Nikolai, Bel havia entrado na fila dos interessados em saudar o rei, e logo, depois de bajulações e cumprimentos de outros convidados mascarados, a vez dele chegou. 
 
 Após cumprimentar o rei Strahd e uma breve conversa seguir, é estranhamente deduzido por parte do rei com o que pareceu ter sido o seu próprio olfato, mesmo tentando disfarçar coçando o nariz, que Bel viria de Vallaki e por consequência supôs também a sua posição como candidato ao trono, vindo de uma família de um certo General. Falou que para ter sido escolhido e recomendado pelo General, Bel deve ser uma pessoa a qual extremamente capaz. Bel cumprimentou também o conselheiro do rei com um breve aceno, contudo a carapaça esquelética que cobria todo o rosto não deixava revelar nenhum detalhe sobre o nobre Khazan. Bel perguntou sobre a presença do General e se ele estaria presente, mas o rei denotou que ele não é muito participativo nos eventos da corte real.
 
----
-
 Em certo momento, Malkieer foi abordado por um homem usando uma máscara de lobo. Ele olhou a coruja do gato e comentou que gostava de corujas,  dizendo que são úteis, por saberem caçar no escuro. Em seguida, declarou abertamente que seu objetivo era o trono. Quando questionou Malkieer sobre o motivo de sua presença, ele respondeu que estava apenas cumprindo uma promessa feita a um amigo. Percebendo que não obteria mais do que isso, o homem da máscara de lobo logo perdeu o interesse e se afastou.
-
----
 
 Cassandra permanecia sozinha, afastada em um canto do salão, quando avistou do outro lado uma figura peculiar, uma mulher usando uma máscara de porcelana. Em suas mãos, ela segurava o que parecia ser um boneco de pano, costurando-o com delicadeza.
 
 Movida por uma curiosidade silenciosa, Cassandra se aproximou.
 
-— De todas as companhias deste salão... acho que você escolheu a mais confiável — comentou com um leve sorriso, observando o boneco.
+<figure style="float: right; margin: 0 1.5rem 1rem 0; width: 300px; text-align: center;">
+  <img src="boneca cass.png" alt="Cassandra Doll" style="width: 70%; border-radius: 8px;" />
+  <figcaption style="font-size: 0.85rem; color: #888;">Cassandra Doll</figcaption>
+</figure>
+<p>— De todas as companhias deste salão... acho que você escolheu a mais confiável — comentou com um leve sorriso, observando o boneco.<p> 
+<p>As duas conversaram por alguns instantes. A figura elogiou Cassandra, falando que ela tinha uma presença boa. Cassandra percebeu que o boneco que a mulher costurava usava uma pequena réplica de sua máscara. Quando a costura foi finalizada, a mulher lhe estendeu o brinquedo com gentileza. Era um presente.</p>
+<p>Cassandra o pegou com cuidado, passando os dedos pelas linhas bordadas na boneca.</p>
+<p>Antes de se despedir, inclinou a cabeça levemente, num gesto amistoso:</p>
 
-As duas conversaram por alguns instantes. A figura elogiou Cassandra, falando que ela tinha uma presença boa. Cassandra percebeu que o boneco que a mulher costurava usava uma pequena réplica de sua máscara. Quando a costura foi finalizada, a mulher lhe estendeu o brinquedo com gentileza. Era um presente.
 
-Cassandra o pegou com cuidado, passando os dedos pelas linhas bordadas na boneca.
- ![[boneca cass.png|Cassandra doll|221x331]]
 Antes de se despedir, inclinou a cabeça levemente, num gesto amistoso:
 
 — Se nos virmos de novo... eu gostaria de continuar essa conversa. — Riu, apontando para os cabelos ruivos. — É só procurar alguém com o cabelo igual ao meu.
@@ -119,19 +120,15 @@ A mulher sorriu por trás da máscara de porcelana e disse, com simplicidade:
 
 — Você é uma pessoa difícil de esquecer.
 
----
-
-
+### **1.4 -**  Convites e Degraus
 Ao longo da noite, todos os convidados receberam discretamente um bilhete entregue pelos mordomos. A mensagem era clara: ao final das festividades, deveriam se dirigir a determinadas carruagens. Um convite silencioso para algo que ainda viria.
-
-No salão inferior, Anna avistou uma figura enigmática cruzando o sal, [[Máscara de Ornamentos]]. Seus olhares se encontraram por um breve instante, mas nenhuma palavra foi trocada.
 
 No andar superior, Cassandra ao praticar seus passos foi convidada para dançar. Aceitou, e acabou girando pelo salão em uma valsa elegante ao lado de um jovem usando a [[Máscara de Druida]].
 
-Enquanto isso, Nikolai, sob o disfarce mágico de _Disguise Self_, assumiu a aparência de um mordomo do castelo. Aproveitando-se do disfarce, conseguiu passar por uma porta vigiada e começou a descer por escadas discretas rumo ao desconhecido.
+Enquanto isso, Nikolai, sob o disfarce mágico de Disguise Self, assumiu a aparência de um mordomo do castelo. Aproveitando-se do disfarce, conseguiu passar por uma porta vigiada e começou a descer por escadas discretas rumo ao desconhecido.
 
 No andar principal, Anna, Bel e Malkieer ouviram o  som cortante de um grito que atravessou o ambiente:  
-— _Ele morreu!_  
+— Ele morreu!
 A voz era de uma mulher, e a cena que encontraram os paralisou. No sofá, caído e imóvel, estava o [[Leon Wachter]]. Os três correram até ele, o ar pesado de tensão preenchendo o salão.
 
 O corpo jazia inclinado sobre o sofá, os lábios manchados por espuma pálida. Não respirava.  
@@ -149,20 +146,19 @@ Leon, ainda pálido, se ergueu com a ajuda da irmã mais nova, após ela chamar 
 
 Bel e Malkieer permaneceram no salão, rodeados por ecos de música e veneno.
 
-
----
-
 Em outra parte do castelo, Nikolai ainda descia as escadas quando um pressentimento ruim começou a crescer dentro dele, uma inquietação quase física. Ao decidir retornar, deu de cara com uma figura parada diante de si. A voz cortou o silêncio
 
-![[Rahadin.jpg|Elfo misterioso|201x245]] 
+<figure style="float: right; margin: 0 1.5rem 1rem 0; width: 300px; text-align: center;">
+  <img src="Rahadin.jpg" alt="Elfo misterioso" style="width: 100%; border-radius: 8px;" />
+  <figcaption style="font-size: 0.85rem; color: #888;">Elfo misterioso</figcaption>
+</figure>
 
-— _Qual é seu nome, mordomo? E o que está fazendo aqui?
+— Qual é seu nome, mordomo? E o que está fazendo aqui?
 
-Nikolai respondeu com uma mentira engatilhada — disse que não sabia ao certo o que havia acontecido, que servia um homem com máscara de lobo e, de repente, estava ali, perdido, deslocado.  
+Nikolai respondeu com uma mentira engatilhada, disse que não sabia ao certo o que havia acontecido, que servia um homem com máscara de lobo e, de repente, estava ali, perdido, deslocado.  
 O elfo pareceu aceitá-la, ou ao menos não se deu ao trabalho de desmenti-la. Ele ordenou que ele voltasse a seus afazeres. 
 Nikolai assentiu e subiu as escadas sem olhar para trás.  Mas algo subia com ele.  Não passos, mas o peso de um olhar, ou a sombra de uma dúvida.  A paranoia se instalou em seu peito como um hóspede silencioso.  E levaria tempo, muito tempo, até que partisse.
 
----
 Em outro canto do castelo, Cassandra girava devagar ao som da música, dançando com o jovem de máscara de druida.  
 Durante a dança, ambos notaram o rei e seu conselheiro deixarem discretamente o salão. A ausência foi pequena, mas nela se abriu um silêncio curioso.
 Entre passos contidos e palavras leves, o jovem deixou escapar mais do que devia. Falou de seu povo, de raízes fundas, de um viver mais próximo da terra. Disse que a dança precisava acabar ali, que uma carruagem o esperava.  
@@ -171,7 +167,7 @@ No instante seguinte, mordeu a língua com o arrependimento de quem percebe o er
 Cassandra não pressionou.  
 Apenas sorriu com calma e disse, quase como quem aconselha uma criança:
 
-— _Você deveria tomar mais cuidado com o que deixa escapar._
+— Você deveria tomar mais cuidado com o que deixa escapar.
 
 O jovem assentiu, envergonhado, e se afastou. Seus passos ecoaram escada abaixo, apressados demais para quem tentava parecer discreto.
 
@@ -179,7 +175,7 @@ Cassandra ficou um pouco mais.
 Quando a música mudou, ela se virou e começou a descer também.  
 Afinal, ela também tinha um número. E uma carruagem à espera.
 
----
+### **1.5 -**  A Primeira Impressão Fica
 
 Anna acompanhava o irmão para fora do castelo, os dois lado a lado, como quem conhece bem os caminhos entre o carinho e a provocação.  
 Havia afeto ali, discreto, atravessado por farpas pequenas, mas ainda assim afeto.a.
@@ -213,7 +209,7 @@ Um mordomo o encarava.
 Estava ali, imóvel, como se já estivesse esperando.  
 E quando falou, a voz chegou clara demais, como se tivesse atravessado direto o nevoeiro da dúvida:
 
-— _Qual é o carroça do senhor?_ — perguntou. — _Para que eu o leve até ele._
+— Qual é o carroça do senhor? — perguntou. — Para que eu o leve até ele.
 
 Por um momento, Nikolai não soube se era uma pergunta literal, uma charada, ou um erro de tradução.  Mas seguiu o mordomo até a carroça. 
 
@@ -222,45 +218,45 @@ Por um momento, Nikolai não soube se era uma pergunta literal, uma charada, ou 
 Malkieer e Bel permaneciam no salão. Conversavam em tons baixos. A respeito da situação do envenenamento. 
 
 Enquanto Bel se distraía por um instante, Malkieer ergueu discretamente a mão, ou melhor, não a própria, mas uma que ninguém podia ver.  
-Uma _Mage Hand_, invisível como intenção mal disfarçada.
+Uma Mage Hand, invisível como intenção mal disfarçada.
 
 Com a leveza de quem folheia um segredo, roubou o envelope do outro e o abriu com rapidez.  
 Carruagem número 1.
 
 Ele sorriu por dentro, guardando a informação como uma peça preciosa num tabuleiro que ainda estava se formando.
 
-— _São muitos competidores, não é?_ — disse Malkieer, com um sorriso leve, quase casual. — _Como você mesmo falou, é comum que um competidor vire alvo. Mas vencer essa disputa... bem, não é a única forma de chegar ao trono._  
+— São muitos competidores, não é? — disse Malkieer, com um sorriso leve, quase casual. —Como você mesmo falou, é comum que um competidor vire alvo. Mas vencer essa disputa... bem, não é a única forma de chegar ao trono. 
 Fez uma pausa, como quem coloca uma peça no tabuleiro.  
-— _Pelo que estou vendo, talvez o mais importante seja ter aliados aqui dentro. Não acha?_ Com habilidades especiais.
+— Pelo que estou vendo, talvez o mais importante seja ter aliados aqui dentro. Não acha? Com habilidades especiais.
 
 Bel manteve o olhar fixo no dele. Por um momento, não respondeu, como se estivesse pesando palavras com balanças invisíveis.
 
-— _As navalhas da corte realmente não são vistas com os olhos, — disse enfim, a voz baixa, quase uma confidência.
+— As navalhas da corte realmente não são vistas com os olhos, — disse enfim, a voz baixa, quase uma confidência.
 
 Deu um passo à frente, encurtando a distância entre os dois.
 
-— _Aliado é alguém em quem se pode confiar. E eu..._ — os olhos dele perfuraram os de Malkieer — _...ainda estou medindo minha confiança._
+— Aliado é alguém em quem se pode confiar. E eu...— os olhos dele perfuraram os de Malkieer —...ainda estou medindo minha confiança.
 
 Pouco depois, Bel levou a mão ao bolso, em busca do envelope. Encontrou apenas o vazio.
 
 Antes que pudesse falar qualquer coisa, Malkieer puxou discretamente o convite de dentro de sua manga, estendendo-o entre dois dedos como se fosse um truque de salão.
 
-— _Falando em habilidades... acho que está procurando por isso,_ — disse com um meio sorriso.
+— Falando em habilidades... acho que está procurando por isso — disse com um meio sorriso.
 
 Bel o encarou. Não com raiva, mas com uma calma precisa, milimétrica. Uma daquelas calmas que vêm antes da lâmina.
 
 Tomou o envelope de volta, os olhos brilhando sob a máscara, firmes como aço polido.
 
-— _Que maneira interessante de conquistar a confiança de um aliado,_ — replicou, a voz tão suave quanto perigosa.
+— Que maneira interessante de conquistar a confiança de um aliado — replicou, a voz tão suave quanto perigosa.
 
 Virou-se sem pressa, caminhando em direção à porta.  
 E mesmo de costas, havia algo em sua presença que ainda perfurava.
 
-_Primeiras impressões são as que ficam._
+Primeiras impressões são as que ficam.
 
-Pouco tempo depois Malkieerfoi em direção a porta também. 
+Pouco tempo depois Malkieerfoi em direção a porta também.
 
----
+### **1.6 -**  Sob a Chuva, Algo Quebrado
 
 Cassandra descia lentamente a escadaria do segundo andar, os degraus ecoando sob seus passos com um som abafado, quase solene.  
 No andar inferior, o ambiente já havia mudado.  
@@ -280,48 +276,49 @@ Foi então que, no meio da escuridão, uma figura tropeçou nela, vinda do nada.
 
 A pessoa caiu com força no chão encharcado, um baque abafado pela chuva.
 
-— _Me desculpa, me desculpa!_
+— Me desculpa, me desculpa! 
 
 Cassandra parou, instintivamente olhando para baixo. A jovem que agora se levantava era familiar.
 
-— _Você era a pianista que estava tocando agora, certo?_
+— Você era a pianista que estava tocando agora, certo? 
 
-— _Ai..._ — murmurou a outra, tocando o joelho com cuidado. Era possível ver a pele ralada, o vestido molhado colando nas pernas.
+— Ai... — murmurou a outra, tocando o joelho com cuidado. Era possível ver a pele ralada, o vestido molhado colando nas pernas.
 
 Cassandra deu um passo à frente e falou com gentileza, pedindo desculpas.
 
 A pianista balançou a cabeça..
 
-— _Eu que peço desculpas. Eu não devia estar correndo, me desculpa. Consegue me ajudar um pouco?_ — estendeu a mão com um sorriso envergonhado.
+— Eu que peço desculpas. Eu não devia estar correndo, me desculpa. Consegue me ajudar um pouco? — estendeu a mão com um sorriso envergonhado.
 
 Cassandra a segurou com firmeza e, em silêncio, deixou que a energia curativa fluísse da palma de sua mão. Uma luz sutil, quase imperceptível, percorreu o braço da pianista até o joelho ferido.
 
-— _Opa, vamos levantar. Acho que não foi tão feio._
+— Opa, vamos levantar. Acho que não foi tão feio. 
 
-— _CALMA AÍ QUE TÁ... ué... não tá doendo._
+— CALMA AÍ QUE TÁ... ué... não tá doendo. 
 
-— _Acho que foi mais o susto._
+— Acho que foi mais o susto. 
 
-— _Ufa... me desculpe, estou molhando sua roupa bonita._
+— Ufa... me desculpe, estou molhando sua roupa bonita. 
 
-— _Tudo bem. A festa já acabou._
+— Tudo bem. A festa já acabou. 
 
 Houve uma pausa.
 
 A pianista ainda segurava a mão de Cassandra, os olhos fixos no rosto por trás da máscara.
 
-— _Muito obrigada._ — Ela balançou o joelho de leve — _Por acaso... nós já nos encontramos antes?_ — hesitou por um segundo. — _Me perdoe, eu estou de máscara..._
+— Muito obrigada. — Ela balançou o joelho de leve — Por acaso... nós já nos encontramos antes? — hesitou por um segundo. — Me perdoe, eu estou de máscara... 
 
 Um assobio cortou a chuva, vindo de algum ponto distante.
 
-— _Okay, me desculpa, e eu agradeço muito!_ — disse ela de repente, soltando a mão de Cassandra e correndo em direção ao som, desaparecendo na noite.
+— Okay, me desculpa, e eu agradeço muito! — disse ela de repente, soltando a mão de Cassandra e correndo em direção ao som, desaparecendo na noite.
 
 Cassandra ficou ali, sozinha por um instante, com a mão ainda estendida no ar.  
 Sem saber exatamente o que tinha acabado de acontecer, mas com a sensação de que algo nela havia sido tocado também.
 
-Ela respirou fundo, então continuou seu caminho em direção à carruagem número 1.
+Ela respirou fundo, então continuou seu caminho em direção à carruagem número um.
 
----
+### **1.7 -**  Carruagem Nº1
+
 
 A carruagem número 1 aguardava, grande o bastante para acomodá-los todos, mas ainda assim com o silêncio tenso de uma reunião marcada pelo destino.
 
@@ -333,11 +330,11 @@ Cassandra subiu em silêncio, os ombros ainda úmidos da chuva.
 
 O mordomo os acompanhou até a porta, depois subiu junto, posicionando-se em frente a eles.
 
-— _Senhoras e senhores,_ — começou, a voz firme, mas sem arrogância. — _a competição pelo trono de Barovia será dividida em etapas. Nos primeiros seis meses, vocês atuarão como uma equipe. A coroa valoriza tanto liderança quanto cooperação. Queremos ver como trabalham juntos. Como confiam. Como decidem._  
+—  Senhoras e senhores,  — começou, a voz firme, mas sem arrogância. —  a competição pelo trono de Barovia será dividida em etapas. Nos primeiros seis meses, vocês atuarão como uma equipe. A coroa valoriza tanto liderança quanto cooperação. Queremos ver como trabalham juntos. Como confiam. Como decidem.   
 Fez uma pausa breve, observando o peso da informação se acomodar em cada rosto.
 
-— _O destino de vocês é a vila de Barovia._  _Sua primeira missão é simples: tornem a vila um lugar melhor._  
-— _Boa sorte. O líder da vila os aguarda._
+—  O destino de vocês é a vila de Barovia.    Sua primeira missão é simples: tornem a vila um lugar melhor.   
+—  Boa sorte. O líder da vila os aguarda. 
 
 As rodas começaram a girar. A carruagem partiu.
 
