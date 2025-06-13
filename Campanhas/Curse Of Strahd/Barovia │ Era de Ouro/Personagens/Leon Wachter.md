@@ -1,17 +1,19 @@
 ---
-cssclasses: npc-card
+cssclasses:
+  - npc-card
+tags: npc
+img: "[[lion Wachter.png]]"
+status: Vivo
+Afiliação: Família Wachter, Time nº2
+Localização: ???
 ---
 
 <img src="lion Wachter.png" alt="lion" />
 
-### **Nome:** Lion Wacther
-**Localização:** ???
-**Status:** Vivo
+# ** Lion Wacther **
 **Descrição:**  
-Irmão de [[Anna Wachter]].
+Irmão de [[Anna Wachter]], o irmão do meio três irmãos Wachter, também figura entre os candidatos ao trono, integrando o time nº 2.
 
-### **Afiliação:** Família Wachter  
-A irmão do meio três irmãos Wachter, também figura entre os candidatos ao trono, integrando o time nº 2.
 ### **Segredos ou Boatos:**  
 ...
 

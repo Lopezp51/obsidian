@@ -1,17 +1,20 @@
 ---
-cssclasses: npc-card
+cssclasses:
+  - npc-card
+tags:
+  - npc
+img: "[[npc sem foto.png]]"
+status: Vivo
+Afiliação: Strahd
+Localização: Castelo Ravenloft 
 ---
 
 <img src="npc sem foto.png" alt="Escher" />
 
-### **Nome:** Escher
-**Localização:** Castelo Ravenloft 
-**Status:** Vivo  
-**Descrição:**  
+# **Escher**
+### **Descrição:**  
 Estava ao lado da pianista durante o baile, não deixou outros se aproximarem dela.
 
-### **Afiliação:** Strahd 
-Há rumores de que foi ele quem traiu a vila para Strahd. Ninguém sabe ao certo.  
 ### **Segredos ou Boatos:**  
 Nenhum ainda.
 

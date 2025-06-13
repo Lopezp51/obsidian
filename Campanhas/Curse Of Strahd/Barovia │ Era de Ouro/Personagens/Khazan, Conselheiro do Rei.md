@@ -1,17 +1,19 @@
 ---
 cssclasses: npc-card
+tags: npc
+img: "[[Khazan.png]]"
+status: Vivo
+Afiliação: Strahd
+Localização: Castelo Raveloft
 ---
 
 <img src="Khazan.png" alt="Khazan" />
 
-### **Nome:** Khazan
-**Localização:** Castelo Raveloft
-**Status:** Viva  
+# ** Khazan **
+
 **Descrição:**  
 Conselheireo de guerra do rei [[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich|Strahd von Zarovich]].
 
-### **Afiliação:** Strahd 
-Conselheiro de Guerra.
 ### **Segredos ou Boatos:**  
 ...
 

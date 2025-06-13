@@ -1,17 +1,18 @@
 ---
 cssclasses: npc-card
+tags: npc
+img: "[[irma_da_anna.png]]"
+status: Viva
+Afiliação: Família Wachter, Time nº3
+Localização: ???
 ---
 
 <img src="irma_da_anna.png" alt="irma da anna" />
 
-### **Nome:** Irmã da Anna
-**Localização:** ???
-**Status:** Viva  
+# ** Irmã da Anna**
 **Descrição:**  
-Irmã mais velha de [[Anna Wachter]].
+Irmã mais velha de [[Anna Wachter]], também figura entre os candidatos ao trono, integrando o time nº 3.
 
-### **Afiliação:** Família Wachter 
-A mais velha dos três irmãos Wachter, também figura entre os candidatos ao trono, integrando o time nº 3.
 ### **Segredos ou Boatos:**  
 Demonstra um talento nato para a magia e uma sede crescente por mais poder. Já carrega em si uma força notável, embora sua irmã mais nova desconfie que a origem desse poder não seja algo bom.
 

@@ -13,5 +13,8 @@
   "homepage",
   "custom-node-size",
   "persistent-graph",
-  "dataview"
+  "dataview",
+  "data-cards",
+  "calendarium",
+  "chronos"
 ]

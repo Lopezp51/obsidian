@@ -1,0 +1,1065 @@
+/* DataCards Plugin Styles */
+
+/* Container for all cards */
+.datacards-container {
+  --card-columns: 3;
+  --card-gap: 16px;
+  --card-radius: 8px;
+  --image-height: 200px;
+  --image-fit: cover;
+  --content-height: 200px;
+  --card-spacing: 16px;
+
+  display: grid;
+  grid-template-columns: repeat(var(--card-columns), 1fr);
+  gap: var(--card-gap);
+  width: 100%;
+  margin: 1em 0;
+}
+
+/* Set card spacing based on data attribute */
+.datacards-container[data-card-gap="4"] { --card-gap: 4px; --card-spacing: 4; }
+.datacards-container[data-card-gap="8"] { --card-gap: 8px; --card-spacing: 8; }
+.datacards-container[data-card-gap="12"] { --card-gap: 12px; --card-spacing: 12; }
+.datacards-container[data-card-gap="16"] { --card-gap: 16px; --card-spacing: 16; }
+.datacards-container[data-card-gap="20"] { --card-gap: 20px; --card-spacing: 20; }
+.datacards-container[data-card-gap="24"] { --card-gap: 24px; --card-spacing: 24; }
+.datacards-container[data-card-gap="28"] { --card-gap: 28px; --card-spacing: 28; }
+.datacards-container[data-card-gap="32"] { --card-gap: 32px; --card-spacing: 32; }
+
+/* Column count classes */
+.datacards-columns-1 { grid-template-columns: repeat(1, 1fr); }
+.datacards-columns-2 { grid-template-columns: repeat(2, 1fr); }
+.datacards-columns-3 { grid-template-columns: repeat(3, 1fr); }
+.datacards-columns-4 { grid-template-columns: repeat(4, 1fr); }
+.datacards-columns-5 { grid-template-columns: repeat(5, 1fr); }
+.datacards-columns-6 { grid-template-columns: repeat(6, 1fr); }
+
+/* Dynamic columns layout */
+.datacards-dynamic-columns {
+  --min-card-width: 250px;
+  grid-template-columns: repeat(auto-fit, minmax(var(--min-card-width), 1fr));
+}
+
+/* Minimum card width classes for dynamic layout */
+.datacards-min-width-200 { --min-card-width: 200px; }
+.datacards-min-width-220 { --min-card-width: 220px; }
+.datacards-min-width-250 { --min-card-width: 250px; }
+.datacards-min-width-280 { --min-card-width: 280px; }
+.datacards-min-width-300 { --min-card-width: 300px; }
+.datacards-min-width-320 { --min-card-width: 320px; }
+.datacards-min-width-350 { --min-card-width: 350px; }
+.datacards-min-width-400 { --min-card-width: 400px; }
+
+/* Individual card */
+.datacards-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--card-radius);
+  overflow: hidden;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.datacards-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Clickable card styles */
+.datacards-clickable-card {
+  cursor: pointer;
+  position: relative;
+}
+
+/* Ensure the card is properly clickable */
+.datacards-clickable-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+/* Ensure internal links still work */
+.datacards-clickable-card .internal-link {
+  position: relative;
+  z-index: 2;
+}
+
+/* When shadows are disabled */
+.datacards-no-shadows .datacards-card {
+  box-shadow: none;
+}
+
+.datacards-no-shadows .datacards-card:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+/* Image container */
+.datacards-image-container {
+  width: 100%;
+  height: var(--image-height);
+  overflow: hidden;
+}
+
+/* Image height classes */
+.datacards-image-height-100 .datacards-image-container { height: 100px; }
+.datacards-image-height-120 .datacards-image-container { height: 120px; }
+.datacards-image-height-150 .datacards-image-container { height: 150px; }
+.datacards-image-height-200 .datacards-image-container { height: 200px; }
+.datacards-image-height-250 .datacards-image-container { height: 250px; }
+.datacards-image-height-300 .datacards-image-container { height: 300px; }
+.datacards-image-height-350 .datacards-image-container { height: 350px; }
+.datacards-image-height-400 .datacards-image-container { height: 400px; }
+
+/* Image */
+.datacards-image {
+  width: 100%;
+  height: 100%;
+  object-fit: var(--image-fit);
+}
+
+/* Image fit classes */
+.datacards-image-fit-cover .datacards-image { object-fit: cover; }
+.datacards-image-fit-contain .datacards-image { object-fit: contain; }
+.datacards-image-fit-fill .datacards-image { object-fit: fill; }
+.datacards-image-fit-scale-down .datacards-image { object-fit: scale-down; }
+.datacards-image-fit-none .datacards-image { object-fit: none; }
+
+/* Image placeholder */
+.datacards-image-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--background-modifier-border);
+  color: var(--text-muted);
+  font-size: 0.9em;
+  text-align: center;
+  padding: 1em;
+  transition: opacity 0.3s ease;
+}
+
+/* Fade-in animation for lazy-loaded images */
+.datacards-image {
+  width: 100%;
+  height: 100%;
+  object-fit: var(--image-fit);
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.datacards-image.loaded {
+  opacity: 1;
+}
+
+/* Content area */
+.datacards-content {
+  padding: 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* Properties container */
+.datacards-properties-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* Scrollable properties container */
+.datacards-scrollable-properties {
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb-bg) var(--scrollbar-bg);
+  max-height: var(--content-height, 200px);
+  position: relative;
+}
+
+/* Content height classes */
+.datacards-content-height-100 { --content-height: 100px; }
+.datacards-content-height-150 { --content-height: 150px; }
+.datacards-content-height-200 { --content-height: 200px; }
+.datacards-content-height-250 { --content-height: 250px; }
+.datacards-content-height-300 { --content-height: 300px; }
+.datacards-content-height-350 { --content-height: 350px; }
+.datacards-content-height-400 { --content-height: 400px; }
+
+/* Scrollbar styling for webkit browsers */
+.datacards-scrollable-properties::-webkit-scrollbar {
+  width: 6px;
+}
+
+.datacards-scrollable-properties::-webkit-scrollbar-track {
+  background: var(--scrollbar-bg, rgba(0, 0, 0, 0.05));
+}
+
+.datacards-scrollable-properties::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb-bg, rgba(0, 0, 0, 0.2));
+  border-radius: 3px;
+}
+
+/* Subtle indicator that content is scrollable */
+.datacards-scrollable-properties::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 15px;
+  background: linear-gradient(to top, var(--background-secondary), transparent);
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+/* Property */
+.datacards-property {
+  margin-bottom: 8px;
+}
+
+/* Property label */
+.datacards-property-label {
+  font-size: 0.8em;
+  color: var(--text-muted);
+  margin-bottom: 2px;
+  text-transform: uppercase;
+}
+
+/* Property value */
+.datacards-property-value {
+  color: var(--text-normal);
+}
+
+/* Boolean property styles */
+.datacards-boolean-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+/* Alignment for boolean containers */
+.datacards-boolean-container.datacards-text-left {
+  justify-content: flex-start;
+}
+
+.datacards-boolean-container.datacards-text-center {
+  justify-content: center;
+}
+
+.datacards-boolean-container.datacards-text-right {
+  justify-content: flex-end;
+}
+
+.datacards-checkbox {
+  cursor: default;
+  vertical-align: middle;
+  margin: 0;
+  order: 2; /* Make checkbox appear after text */
+}
+
+.datacards-boolean-text {
+  font-size: 0.9em;
+  font-family: var(--font-monospace);
+  padding: 2px 5px;
+  border-radius: 3px;
+  vertical-align: middle;
+  order: 1; /* Make text appear before checkbox */
+}
+
+/* Style for true values */
+.datacards-boolean-container:has(input[data-boolean-value="true"]) .datacards-boolean-text {
+  background-color: rgba(0, 128, 0, 0.1);
+  color: var(--text-success, #50fa7b);
+}
+
+/* Style for false values */
+.datacards-boolean-container:has(input[data-boolean-value="false"]) .datacards-boolean-text {
+  background-color: rgba(128, 0, 0, 0.1);
+  color: var(--text-error, #ff5555);
+}
+
+/* Fallback for browsers that don't support :has() */
+.datacards-boolean-text + input[data-boolean-value="true"] {
+  background-color: rgba(0, 128, 0, 0.1);
+}
+
+.datacards-boolean-text + input[data-boolean-value="false"] {
+  background-color: rgba(128, 0, 0, 0.1);
+}
+
+/* Custom checkbox styling to make it more visible */
+.datacards-checkbox {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 16px;
+  height: 16px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 3px;
+  position: relative;
+  cursor: default;
+  vertical-align: middle;
+  margin: 0;
+  order: 2;
+}
+
+/* Checked state */
+.datacards-checkbox:checked {
+  background-color: var(--interactive-accent);
+  border-color: var(--interactive-accent);
+}
+
+/* Checkmark */
+.datacards-checkbox:checked::after {
+  content: '✓';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 12px;
+  line-height: 1;
+}
+
+/* Disabled state */
+.datacards-checkbox:disabled {
+  opacity: 0.8;
+}
+
+/* True checkbox */
+input[data-boolean-value="true"].datacards-checkbox {
+  background-color: var(--interactive-accent);
+  border-color: var(--interactive-accent);
+}
+
+input[data-boolean-value="true"].datacards-checkbox::after {
+  content: '✓';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 12px;
+  line-height: 1;
+}
+
+/* False checkbox */
+input[data-boolean-value="false"].datacards-checkbox {
+  background-color: transparent;
+  border-color: var(--background-modifier-border);
+}
+
+/* Text alignment classes */
+.datacards-text-left {
+  text-align: left;
+}
+
+.datacards-text-center {
+  text-align: center;
+}
+
+.datacards-text-right {
+  text-align: right;
+  padding-right: 8px; /* Add padding to create space between text and right edge/scrollbar */
+}
+
+/* Property images */
+.datacards-property-image {
+  max-width: 100%;
+  max-height: 150px;
+  border-radius: 4px;
+  display: block;
+  margin: 4px 0;
+  transition: opacity 0.3s ease;
+  opacity: 1;
+}
+
+/* Add a subtle loading animation for property images */
+.datacards-property-image.loading {
+  opacity: 0.7;
+  animation: pulse 1.5s infinite alternate;
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 0.9;
+  }
+}
+
+/* Style for property image error state */
+.datacards-property-value.image-error {
+  color: var(--text-error);
+  font-size: 0.9em;
+  font-style: italic;
+  padding: 4px;
+  background-color: rgba(255, 0, 0, 0.05);
+  border-radius: 4px;
+}
+
+/* Error message */
+.datacards-error {
+  grid-column: 1 / -1;
+  padding: 16px;
+  background-color: rgba(255, 0, 0, 0.1);
+  border: 1px solid rgba(255, 0, 0, 0.3);
+  border-radius: var(--card-radius);
+  color: var(--text-error);
+}
+
+/* Info message */
+.datacards-info {
+  grid-column: 1 / -1;
+  padding: 16px;
+  background-color: rgba(0, 0, 255, 0.1);
+  border: 1px solid rgba(0, 0, 255, 0.3);
+  border-radius: var(--card-radius);
+  color: var(--text-normal);
+}
+
+/* Empty state message */
+.datacards-empty-state {
+  grid-column: 1 / -1;
+  padding: 24px;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--card-radius);
+  color: var(--text-muted);
+  text-align: center;
+  font-size: 1.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1em 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: background-color 0.2s ease;
+}
+
+.datacards-empty-state:hover {
+  background-color: var(--background-secondary-alt);
+}
+
+/* Stars rating */
+.datacards-stars {
+  display: flex;
+  gap: 2px;
+}
+
+.datacards-star-full {
+  color: gold;
+}
+
+.datacards-star-empty {
+  color: var(--text-muted);
+}
+
+/* Badge */
+.datacards-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  font-size: 0.8em;
+}
+
+/* Badge with custom color via data attribute */
+.datacards-badge[data-color] {
+  background-color: var(--badge-color, currentColor);
+}
+
+/* Generate CSS for badge colors */
+.datacards-badge[data-color="red"] { --badge-color: #ff5555; }
+.datacards-badge[data-color="green"] { --badge-color: #50fa7b; }
+.datacards-badge[data-color="blue"] { --badge-color: #8be9fd; }
+.datacards-badge[data-color="yellow"] { --badge-color: #f1fa8c; }
+.datacards-badge[data-color="purple"] { --badge-color: #bd93f9; }
+.datacards-badge[data-color="orange"] { --badge-color: #ffb86c; }
+.datacards-badge[data-color="pink"] { --badge-color: #ff79c6; }
+.datacards-badge[data-color="gray"] { --badge-color: #bfbfbf; }
+/* For any other color, we'll use the color value directly */
+.datacards-badge[data-color="#000000"] { --badge-color: #000000; }
+/* This is just an example - in practice, we can't enumerate all possible colors */
+
+/* Progress bar */
+.datacards-progress-container {
+  width: 100%;
+  height: 8px;
+  background-color: var(--background-modifier-border);
+  border-radius: 4px;
+  overflow: hidden;
+  position: relative;
+}
+
+.datacards-progress-bar {
+  height: 100%;
+  background-color: var(--interactive-accent);
+  width: var(--progress-percentage, 0%);
+}
+
+/* Set progress percentage based on data attribute */
+.datacards-progress-bar[data-percentage="0"] { --progress-percentage: 0%; }
+.datacards-progress-bar[data-percentage="5"] { --progress-percentage: 5%; }
+.datacards-progress-bar[data-percentage="10"] { --progress-percentage: 10%; }
+.datacards-progress-bar[data-percentage="15"] { --progress-percentage: 15%; }
+.datacards-progress-bar[data-percentage="20"] { --progress-percentage: 20%; }
+.datacards-progress-bar[data-percentage="25"] { --progress-percentage: 25%; }
+.datacards-progress-bar[data-percentage="30"] { --progress-percentage: 30%; }
+.datacards-progress-bar[data-percentage="35"] { --progress-percentage: 35%; }
+.datacards-progress-bar[data-percentage="40"] { --progress-percentage: 40%; }
+.datacards-progress-bar[data-percentage="45"] { --progress-percentage: 45%; }
+.datacards-progress-bar[data-percentage="50"] { --progress-percentage: 50%; }
+.datacards-progress-bar[data-percentage="55"] { --progress-percentage: 55%; }
+.datacards-progress-bar[data-percentage="60"] { --progress-percentage: 60%; }
+.datacards-progress-bar[data-percentage="65"] { --progress-percentage: 65%; }
+.datacards-progress-bar[data-percentage="70"] { --progress-percentage: 70%; }
+.datacards-progress-bar[data-percentage="75"] { --progress-percentage: 75%; }
+.datacards-progress-bar[data-percentage="80"] { --progress-percentage: 80%; }
+.datacards-progress-bar[data-percentage="85"] { --progress-percentage: 85%; }
+.datacards-progress-bar[data-percentage="90"] { --progress-percentage: 90%; }
+.datacards-progress-bar[data-percentage="95"] { --progress-percentage: 95%; }
+.datacards-progress-bar[data-percentage="100"] { --progress-percentage: 100%; }
+
+.datacards-progress-text {
+  position: absolute;
+  right: 0;
+  top: 10px;
+  font-size: 0.8em;
+  color: var(--text-muted);
+}
+
+/* Tags */
+.datacards-tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.datacards-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background-color: var(--background-modifier-border);
+  color: var(--interactive-accent);
+  font-size: 0.8em;
+  text-decoration: none;
+}
+
+/* Tag links */
+a.datacards-tag:hover {
+  background-color: var(--background-modifier-hover);
+  color: var(--text-normal);
+  text-decoration: none;
+}
+
+/* Internal links */
+.datacards-property-value .internal-link {
+  color: var(--interactive-accent);
+  text-decoration: none;
+}
+
+.datacards-property-value .internal-link:hover {
+  text-decoration: underline;
+}
+
+/* File property (title) */
+.datacards-file-property {
+  margin-bottom: 12px;
+}
+
+.datacards-file-property .internal-link {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: var(--interactive-accent);
+  text-decoration: none;
+}
+
+/* Font size variations */
+/* Larger - 120% of default */
+.datacards-font-larger .datacards-property {
+  font-size: 1.2em;
+}
+
+.datacards-font-larger .datacards-property-label {
+  font-size: 0.96em;
+}
+
+.datacards-font-larger .datacards-file-property .internal-link {
+  font-size: 1.44em;
+}
+
+/* Large - 110% of default */
+.datacards-font-large .datacards-property {
+  font-size: 1.1em;
+}
+
+.datacards-font-large .datacards-property-label {
+  font-size: 0.88em;
+}
+
+.datacards-font-large .datacards-file-property .internal-link {
+  font-size: 1.32em;
+}
+
+/* Small - 90% of default (similar to dense preset) */
+.datacards-font-small .datacards-property {
+  font-size: 0.9em;
+}
+
+.datacards-font-small .datacards-property-label {
+  font-size: 0.72em;
+}
+
+.datacards-font-small .datacards-file-property .internal-link {
+  font-size: 1.08em;
+}
+
+/* Smaller - 80% of default */
+.datacards-font-smaller .datacards-property {
+  font-size: 0.8em;
+}
+
+.datacards-font-smaller .datacards-property-label {
+  font-size: 0.64em;
+}
+
+.datacards-font-smaller .datacards-file-property .internal-link {
+  font-size: 0.96em;
+}
+
+.datacards-file-property .internal-link:hover {
+  text-decoration: underline;
+}
+
+/* Text truncation */
+.datacards-truncate-text .datacards-property-value {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Preset variations */
+
+/* Grid preset - Balanced default layout for most use cases */
+.datacards-preset-grid {
+  --card-columns: 3;
+  --image-height: 200px;
+  --image-fit: cover;
+}
+
+.datacards-preset-grid .datacards-card {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Portrait preset - Optimized for book covers and portrait images */
+.datacards-preset-portrait {
+  --card-columns: 3;
+  --image-height: 350px;
+  --image-fit: contain;
+}
+
+.datacards-preset-portrait .datacards-card {
+  border-radius: 8px;
+}
+
+.datacards-preset-portrait .datacards-image-container {
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.datacards-preset-portrait .datacards-content {
+  padding: 12px;
+}
+
+/* Square preset - 1:1 cards with hover overlay */
+.datacards-preset-square {
+  --card-columns: 4;
+  --image-height: 200px;
+  --image-fit: cover;
+}
+
+.datacards-preset-square .datacards-card {
+  aspect-ratio: 1/1;
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+}
+
+.datacards-preset-square .datacards-image-container {
+  height: 100%;
+  width: 100%;
+  transition: all 0.3s ease;
+}
+
+/* Show only the file property (title) by default */
+.datacards-preset-square .datacards-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.datacards-preset-square .datacards-property:not(.datacards-file-property-container) {
+  display: none;
+  transition: opacity 0.3s ease;
+  opacity: 0;
+}
+
+/* No info icon - removed as it was unnecessary */
+
+/* On hover, dim the image and show all properties */
+.datacards-preset-square .datacards-card:hover .datacards-image-container {
+  filter: brightness(0.7) blur(2px);
+}
+
+.datacards-preset-square .datacards-card:hover .datacards-content {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; /* Prevent the container itself from scrolling */
+}
+
+.datacards-preset-square .datacards-card:hover .datacards-file-property-container {
+  flex-shrink: 0; /* Prevent the header from shrinking */
+  padding: 12px 8px;
+  background: rgba(0, 0, 0, 0.8); /* Slightly darker background */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Visual separator */
+}
+
+/* Create a scrollable container for the non-title properties */
+.datacards-preset-square .datacards-card:hover .datacards-properties-scroll-container {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px;
+}
+
+.datacards-preset-square .datacards-card:hover .datacards-property {
+  display: block;
+  opacity: 1;
+}
+
+.datacards-preset-square .datacards-property {
+  margin-bottom: 8px;
+  color: white;
+}
+
+.datacards-preset-square .datacards-property-label {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.datacards-preset-square .datacards-property-value {
+  color: white;
+}
+
+.datacards-preset-square .datacards-file-property {
+  margin-bottom: 12px;
+}
+
+.datacards-preset-square .datacards-file-property .internal-link {
+  font-size: 1.2em;
+  color: white;
+}
+
+/* Adjust links in overlay to be visible */
+.datacards-preset-square .datacards-property-value .internal-link,
+.datacards-preset-square .datacards-tag {
+  color: #a6d8ff;
+}
+
+/* Compact preset - Side-by-side layout with image on left, scrollable content on right */
+.datacards-preset-compact {
+  --card-columns: 4;
+  --image-height: 200px;
+  --image-fit: cover;
+}
+
+.datacards-preset-compact .datacards-card {
+  flex-direction: row;
+  height: 200px;
+}
+
+.datacards-preset-compact .datacards-image-container {
+  width: 40%;
+  height: 100%;
+  border-right: 1px solid var(--background-modifier-border);
+}
+
+.datacards-preset-compact .datacards-content {
+  width: 60%;
+  overflow-y: auto;
+  max-height: 100%;
+  padding: 12px;
+}
+
+/* Dense preset - Maximum information density with minimal spacing */
+.datacards-preset-dense {
+  --card-columns: 6;
+  --image-height: 120px;
+  --image-fit: cover;
+}
+
+.datacards-preset-dense .datacards-card {
+  border-radius: 4px;
+}
+
+.datacards-preset-dense .datacards-content {
+  padding: 8px;
+  gap: 4px;
+}
+
+.datacards-preset-dense .datacards-property {
+  margin-bottom: 4px;
+}
+
+.datacards-preset-dense .datacards-file-property {
+  margin-bottom: 6px;
+}
+
+/* Responsive adjustments - these are now handled by the mobile settings in the plugin */
+/* These media queries serve as fallbacks for blocks without explicit settings */
+@media (max-width: 1200px) {
+  /* Only apply if not already set by the plugin */
+  .datacards-container:not([style*="--card-columns"]) {
+    --card-columns: 2;
+  }
+
+  /* Adjust compact preset for medium screens */
+  .datacards-preset-compact .datacards-card {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .datacards-preset-compact .datacards-image-container {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid var(--background-modifier-border);
+  }
+
+  .datacards-preset-compact .datacards-content {
+    width: 100%;
+  }
+
+  /* Adjust dense preset for medium screens */
+  .datacards-preset-dense {
+    --card-columns: 4;
+  }
+}
+
+@media (max-width: 800px) {
+  /* Only apply if not already set by the plugin */
+  .datacards-container:not([style*="--card-columns"]) {
+    --card-columns: 1;
+  }
+
+  /* Adjust image height for better mobile viewing */
+  .datacards-container:not([style*="--image-height"]) {
+    --image-height: 150px;
+  }
+
+  /* Force all presets to stack vertically on small screens */
+  .datacards-preset-compact .datacards-card {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .datacards-preset-compact .datacards-image-container {
+    width: 100%;
+    height: var(--image-height);
+  }
+
+  .datacards-preset-compact .datacards-content {
+    width: 100%;
+  }
+
+  /* All presets should default to 1 column on mobile */
+  .datacards-preset-grid,
+  .datacards-preset-portrait,
+  .datacards-preset-square,
+  .datacards-preset-compact,
+  .datacards-preset-dense {
+    --card-columns: 1;
+  }
+
+  /* Reduce card spacing on mobile */
+  .datacards-container {
+    gap: 12px;
+    margin: 0.5em 0;
+  }
+
+  /* Make property text slightly smaller on mobile */
+  .datacards-property-value {
+    font-size: 0.95em;
+  }
+
+  /* Ensure cards have adequate minimum width on mobile */
+  .datacards-card {
+    min-width: 200px;
+  }
+
+  /* Ensure property labels are readable on mobile */
+  .datacards-property-label {
+    font-size: 0.75em;
+  }
+}
+
+/* Additional mobile optimizations */
+@media (max-width: 600px) {
+  /* Force single column for very small screens */
+  .datacards-container {
+    --card-columns: 1 !important;
+  }
+
+  /* Further reduce spacing */
+  .datacards-content {
+    padding: 12px;
+    gap: 6px;
+  }
+
+  /* Smaller image height for very small screens */
+  .datacards-image-container {
+    height: 120px;
+  }
+}
+
+/* Hidden container for Dataview queries */
+.datacards-hidden-container {
+  display: none;
+}
+
+/* Progress bar width classes */
+.datacards-progress-width-10 { width: 10%; }
+.datacards-progress-width-20 { width: 20%; }
+.datacards-progress-width-30 { width: 30%; }
+.datacards-progress-width-40 { width: 40%; }
+.datacards-progress-width-50 { width: 50%; }
+.datacards-progress-width-60 { width: 60%; }
+.datacards-progress-width-70 { width: 70%; }
+.datacards-progress-width-80 { width: 80%; }
+.datacards-progress-width-90 { width: 90%; }
+.datacards-progress-width-100 { width: 100%; }
+
+/* Badge colors */
+.datacards-badge-default { background-color: var(--interactive-accent); }
+.datacards-badge-red { background-color: #ff5555; }
+.datacards-badge-green { background-color: #50fa7b; }
+.datacards-badge-blue { background-color: #8be9fd; }
+.datacards-badge-yellow { background-color: #f1fa8c; }
+.datacards-badge-purple { background-color: #bd93f9; }
+.datacards-badge-orange { background-color: #ffb86c; }
+.datacards-badge-pink { background-color: #ff79c6; }
+.datacards-badge-gray { background-color: #bfbfbf; }
+
+/* Hidden elements */
+.datacards-hidden,
+.datacards-hidden-checkbox {
+  display: none;
+}
+
+/* Refresh button styles */
+.datacards-refresh-button {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 50%;
+  background-color: var(--background-secondary);
+  color: var(--text-muted);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: all 0.2s ease;
+  z-index: 10;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  border: 1px solid var(--background-modifier-border);
+}
+
+/* Show button on container hover with larger trigger area */
+.datacards-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 60px;
+  z-index: 5;
+}
+
+.datacards-container:hover .datacards-refresh-button {
+  opacity: 1;
+}
+
+.datacards-refresh-button:hover {
+  background-color: var(--background-secondary-alt);
+  color: var(--text-normal);
+  transform: scale(1.1);
+}
+
+.datacards-refresh-button:active,
+.datacards-refresh-button.datacards-refresh-active {
+  transform: scale(0.95) rotate(180deg);
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.datacards-refresh-icon {
+  font-size: 16px;
+  line-height: 1;
+  transition: transform 0.3s ease;
+}
+
+/* Ensure container has relative positioning for absolute button */
+.datacards-container {
+  position: relative;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+  .datacards-container {
+    grid-template-columns: repeat(var(--mobile-columns, 2), 1fr);
+    gap: calc(var(--card-gap) * 0.75);
+  }
+
+  .datacards-content {
+    padding: 12px;
+  }
+
+  .datacards-property-label {
+    font-size: 0.75em;
+  }
+
+  .datacards-property-value {
+    font-size: 0.9em;
+  }
+
+  /* Make refresh button always visible on mobile */
+  .datacards-refresh-button {
+    opacity: 0.7;
+  }
+
+  .datacards-container:hover .datacards-refresh-button {
+    opacity: 1;
+  }
+}
