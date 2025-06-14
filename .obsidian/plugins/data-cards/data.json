@@ -8,7 +8,7 @@
   "scrollableProperties": false,
   "contentHeight": "200px",
   "showLabels": true,
-  "cardSpacing": 16,
+  "cardSpacing": 8,
   "enableShadows": true,
   "propertiesAlign": "left",
   "titleAlign": "left",

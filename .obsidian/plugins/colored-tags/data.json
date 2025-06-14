@@ -15,7 +15,14 @@
     "Vampire": 3,
     "Vampiro": 4,
     "npc": 5,
-    "ficha": 6
+    "ficha": 6,
+    "campanha": 7,
+    "campanhas": 8,
+    "barovia": 9,
+    "era": 10,
+    "de": 11,
+    "ouro": 12,
+    "barovia_era_de_ouro": 13
   },
   "_version": 3
 }

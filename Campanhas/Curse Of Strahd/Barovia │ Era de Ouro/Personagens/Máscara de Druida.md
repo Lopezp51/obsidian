@@ -1,17 +1,19 @@
 ---
-cssclasses: npc-card
+cssclasses:
+  - npc-card
+tags:
+  - npc
+img: "[[mascara_de_druida.png]]"
+status: Vivo
+Afiliação: "[[Círculo dos Druidas]]"
+Localização: ???
 ---
 
 <img src="mascara_de_druida.png" alt="druida" />
 
-### **Nome:** ???
-**Localização:** ???
-**Status:** Vivo
+# ** ??? **
 **Descrição:**  
 Candidato ao trono, represetando os druidas.
-
-### **Afiliação:** Druidas
-Seu povo tem uma ligação profunda à natureza
 
 ### **Segredos ou Boatos:**  
 Candidato ao trono.

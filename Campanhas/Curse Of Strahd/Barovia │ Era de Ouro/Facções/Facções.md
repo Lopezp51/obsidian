@@ -1,5 +1,6 @@
 ---
 node_size: "3"
+tags: barovia_era_de_ouro
 ---
 [[Barovia │ Era de Ouro]]
 
@@ -8,3 +9,6 @@ node_size: "3"
 [[Party]]
 [[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Facções/Vistani|Vistani]]
 [[Guardas da Vila de Barovia]]
+[[Família Wachter]]
+[[Círculo dos Druidas]]
+

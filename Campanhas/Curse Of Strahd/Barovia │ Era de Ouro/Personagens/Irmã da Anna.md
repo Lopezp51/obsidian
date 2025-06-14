@@ -1,9 +1,11 @@
 ---
-cssclasses: npc-card
-tags: npc
+cssclasses:
+  - npc-card
+tags:
+  - npc
 img: "[[irma_da_anna.png]]"
 status: Viva
-Afiliação: Família Wachter, Time nº3
+Afiliação: "[[Família Wachter]]"
 Localização: ???
 ---
 

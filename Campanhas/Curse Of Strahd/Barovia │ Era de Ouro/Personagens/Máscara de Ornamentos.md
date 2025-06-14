@@ -1,12 +1,15 @@
 ---
 cssclasses: npc-card
+tags: npc
+img: "[[Máscara de Ornamentos.png]]"
+status: Vivo
+Afiliação: ???
+Localização: ???
 ---
 
 <img src="Máscara de Ornamentos.png" alt="Máscara de Ornamentos" />
 
-### **Nome:** ???
-**Localização:** Castelo Ravenloft
-**Status:** Vivo
+# ** ??? **
 **Descrição:**  
 ???
 

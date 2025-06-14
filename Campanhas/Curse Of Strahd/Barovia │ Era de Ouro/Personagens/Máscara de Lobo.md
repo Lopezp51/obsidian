@@ -1,17 +1,17 @@
 ---
 cssclasses: npc-card
+tags: npc
+img: "[[mascara_de_lobo.png]]"
+status: Vivo
+Afiliação: ???
+Localização: ???
 ---
 
 <img src="mascara_de_lobo.png" alt="mascara de lobo" />
 
-### **Nome:** ???
-**Localização:** ???
-**Status:** Vivo
+# ** ??? **
 **Descrição:**  
 Candidato ao trono.
-
-### **Afiliação:** ???
-
 
 ### **Segredos ou Boatos:**  
 Candidato ao trono.

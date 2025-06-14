@@ -3,10 +3,10 @@ cssclasses:
   - npc-card
 tags:
   - npc
-img: "[[npc sem foto.png]]"
+img: 
 status: Vivo
-Afiliação: Strahd
-Localização: Castelo Ravenloft 
+Afiliação: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich|Strahd von Zarovich]]"
+Localização: "[[Castelo Ravenloft]]"
 ---
 
 <img src="npc sem foto.png" alt="Escher" />

@@ -1,3 +1,11 @@
+---
+tags: barovia_era_de_ouro
+---
+
+<div class="campaign-title">
+  <h2>PERSONAGENS</h2>
+</div>
+
 ```datacards
 TABLE img, status, Afiliação, Localização
 FROM #npc

@@ -1,10 +1,12 @@
 ---
-cssclasses: npc-card
-tags: npc
+cssclasses:
+  - npc-card
+tags:
+  - npc
 img: "[[Khazan.png]]"
 status: Vivo
-Afiliação: Strahd
-Localização: Castelo Raveloft
+Afiliação: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich|Strahd von Zarovich]]"
+Localização: "[[Castelo Ravenloft]]"
 ---
 
 <img src="Khazan.png" alt="Khazan" />

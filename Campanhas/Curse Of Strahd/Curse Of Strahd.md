@@ -1,3 +1,11 @@
+---
+tags:
+  - campanha
+img: "[[book_curse_of_strahd.png]]"
+inicio: 2023-08-30
+fim: 
+status: Em Andamento
+---
 # Sinopse
 
 Nas terras sombrias de **Barovia**, cercadas por névoas que nunca se dissipam, um lorde vampiro chamado **Strahd von Zarovich** governa com mão de ferro.  

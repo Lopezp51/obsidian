@@ -1,10 +1,11 @@
 ---
 cssclasses:
   - npc-card
-tags: npc
+tags:
+  - npc
 img: "[[lion Wachter.png]]"
 status: Vivo
-Afiliação: Família Wachter, Time nº2
+Afiliação: "[[Família Wachter]]"
 Localização: ???
 ---
 

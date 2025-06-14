@@ -6,6 +6,9 @@
     "npc-card",
     "npc-dataview",
     "npc-card copy",
-    "sessao-nota"
-  ]
+    "sessao-nota",
+    "datacards",
+    "campnhas"
+  ],
+  "accentColor": "#b02121"
 }

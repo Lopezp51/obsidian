@@ -1,12 +1,15 @@
 ---
 cssclasses: npc-card
+tags: npc
+img: "[[mascara_de_ovelha.png]]"
+status: Vivo
+Afiliação: ???
+Localização: ???
 ---
 
 <img src="mascara_de_ovelha.png" alt="mascara de ovelha" />
 
-### **Nome:** ???
-**Localização:** ???
-**Status:** Vivo
+# ** ??? **
 **Descrição:**  
 Um homem de quase dois metros de altura.
 

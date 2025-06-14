@@ -64,7 +64,7 @@ Já Cassandra permaneceu na sala de jantar, escutando a música suave da **[[Pia
 ### **1.3 -**  Sussurros entre as Máscaras
 
 Após algum tempo, todos se reuniram no andar superior para ouvir o pronunciamento do rei.  
-Sentado em seu trono, ele exibia cabelos grisalhos e uma postura encurvada pelo peso dos anos, e, ainda assim, sua presença preenchia o salão com autoridade. Ao seu lado, permanecia imóvel uma figura usando uma máscara de caveira, seu conselheiro de guerra, [[Khazan, Conselheiro do Rei]].
+Sentado em seu trono, ele exibia cabelos grisalhos e uma postura encurvada pelo peso dos anos, e, ainda assim, sua presença preenchia o salão com autoridade. Ao seu lado, permanecia imóvel uma figura usando uma máscara de caveira, seu conselheiro de guerra, [[Khazan]].
 
 O rei se levantou com esforço contido e, erguendo a voz, deu início ao discurso:
 
