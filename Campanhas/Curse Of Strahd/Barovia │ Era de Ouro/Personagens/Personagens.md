@@ -3,6 +3,7 @@ tags:
   - barovia_era_de_ouro
 img: "[[char_img.png]]"
 conexao: "[[Barovia │ Era de Ouro]]"
+descricao: Heróis, traidores, santos e monstros disfarçados de gente.
 ---
 
 <div class="campaign-title">
@@ -12,7 +13,7 @@ conexao: "[[Barovia │ Era de Ouro]]"
 ```datacards
 TABLE img, status, Afiliação, Localização
 FROM #npc
-SORT name ASC, Afiliação ASC
+SORT name DESC , Afiliação DESC
 
 // Settings
 preset: cover

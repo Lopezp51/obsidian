@@ -3,6 +3,7 @@ tags:
   - barovia_era_de_ouro
 img: "[[tramas_img.png]]"
 conexao: "[[Barovia │ Era de Ouro]]"
+descricao: O fio narrativo que costura o destino.
 ---
 
 <div class="campaign-title">

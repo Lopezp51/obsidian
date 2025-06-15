@@ -33,5 +33,6 @@
   "ITS@@ITS-Note-Title-Styling": "file-header-gradient",
   "ITS@@Inline-Title-Styling": "inline-title-style-text",
   "ITS@@hide-header-underline": false,
-  "ITS@@heading-indicator": false
+  "ITS@@heading-indicator": false,
+  "ITS@@link-weight": 500
 }

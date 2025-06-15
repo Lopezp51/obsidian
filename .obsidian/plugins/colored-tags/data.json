@@ -23,7 +23,11 @@
     "de": 11,
     "ouro": 12,
     "barovia_era_de_ouro": 13,
-    "tramas": 14
+    "tramas": 14,
+    "artefatos": 15,
+    "bestiario": 16,
+    "eventos": 17,
+    "facções": 18
   },
   "_version": 3
 }

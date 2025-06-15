@@ -4,6 +4,8 @@ tags:
 conexao: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/Tramas|Tramas]]"
 ---
 
+### **2.1 -** Boas-Vindas
+
 A carruagem avançou por entre a névoa até que, por fim, o ranger das rodas cedeu lugar ao som oco das pedras sob os cascos dos cavalos. Haviam chegado.
 
 Diante deles erguia-se uma estalagem antiga, com janelas manchadas e um letreiro de madeira rachada que balançava ao vento: [[Sangue no Vinho]].
@@ -38,7 +40,7 @@ O baile havia terminado.
 O jogo político estava em marcha.  
 Mas por ora, havia algo reconfortante em começar com um pouco de riso.
 
----
+### **2.2 -** Portas Abertas, Suspiros Velhos
 O grupo avistou sua casa nova morada, [[Casa Leste da Party]].
 Era uma construção alta e irregular, com janelas em alturas desiguais e telhados que pareciam competir entre si por atenção. A fachada de madeira e pedra mesclava estilos que há muito haviam saído de moda,.
 
@@ -130,7 +132,7 @@ O clique da tranca mal havia ecoado quando o baú se abriu de vez, e **de dentro
 
 Pequenas. Esqueléticas. Famintas. Rosnavam, se esticavam, e não haviam percebido ainda o tabaxi que observava da sombra da escada.Não ainda.
 
----
+### **2.3 -** Garras na Escuridão
 
 **Nikolai** examinava os caixotes como quem folheia um diário antigo: com dedos atentos, mas olhos preparados para decepções.  
 Entre tábuas emboloradas e cheiros de pó velho, não havia nada além do silêncio e do tempo, até que **algo rolou no escuro**.
@@ -498,6 +500,8 @@ Bel bateu palmas devagar, um pequeno sorriso escondido sob o cansaço:
 
 — Parabéns. É assim que começa.
 
+### **2.4 -** Cinzas e Segredos
+
 Com os corpos aos poucos silenciando, os três começaram a descer. A casa ainda parecia inquieta. Cada rangido do assoalho soava como um suspiro.
 
 Malkieer foi o primeiro a chegar ao quarto de Nikolai, já com as ferramentas nas mãos. Em poucos minutos, prendeu a fechadura por dentro, reforçando o trinco com precisão artesanal.
@@ -733,7 +737,7 @@ Ao fundo, formas distorcidas surgiam como vultos famintos. Dentes. Garras. Sorri
 
 Foi quando os passos começaram a soar nos corredores. O grupo começava a se reunir para o jantar. Anna guardou o diário para continuar a leitura depois.
 
----
+### **2.5 -**  Ecos à Mesa
 Agora todos estavam reunidos na sala de jantar.. E mesmo tendo enfrentado criaturas lado a lado, ainda eram cinco estranhos. O silêncio entre eles era denso, não por falta de assunto, mas por excesso de distância. Havia algo no ar que ainda não havia sido rompido: **desconfiança**.
 
 Nikolai foi o primeiro a falar. A voz dele quebrou o silêncio como uma colher batendo em porcelana.
