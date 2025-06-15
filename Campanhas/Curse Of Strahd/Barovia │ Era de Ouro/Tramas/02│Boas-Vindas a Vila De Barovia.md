@@ -1,3 +1,9 @@
+---
+tags:
+  - tramas
+conexao: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/Tramas|Tramas]]"
+---
+
 A carruagem avançou por entre a névoa até que, por fim, o ranger das rodas cedeu lugar ao som oco das pedras sob os cascos dos cavalos. Haviam chegado.
 
 Diante deles erguia-se uma estalagem antiga, com janelas manchadas e um letreiro de madeira rachada que balançava ao vento: [[Sangue no Vinho]].

@@ -1,3 +1,8 @@
+---
+tags:
+  - tramas
+conexao: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/Tramas|Tramas]]"
+---
 ### **1.1 -** A Chegada à Sombra de Ravenloft
 Após longos dias de viagem, alguns partindo até mesmo na véspera, os viajantes finalmente avistaram o destino final. Cavaleiros, carroças e mercadores seguiam pela trilha sinuosa que cortava as montanhas até alcançar o topo, onde se erguia imponente o [[Castelo Ravenloft]].
 
@@ -13,7 +18,7 @@ Após longos dias de viagem, alguns partindo até mesmo na véspera, os viajante
 
 Logo antes da entrada, uma grande tenda foi erguida, funcionando como um ponto de controle. Ali, os servos — todos usando as mesmas máscaras que ocultavam a parte superior do rosto, recepcionavam os convidados, conferindo convites, inspecionando vestimentas e realizando uma rigorosa revista antes de permitir a entrada no castelo.
 
-<figure style="float: right; margin: 0 0 1rem 1.5rem; width: 700px; text-align: center;">
+<figure style="float: left; margin: 0 8 1rem 1.5rem; width: 400px; text-align: center;">
   <img src="servos_castelo_strahd.png" alt="Servos do castelo" style="width: 100%; border-radius: 8px;" />
   <figcaption style="font-size: 0.85rem; color: #888;">Servos do castelo</figcaption>
 </figure>
@@ -36,8 +41,8 @@ Ao cruzarem os portões do castelo, foram imediatamente tomados por uma atmosfer
 Os convidados “especiais” começaram a explorar os salões, sendo rapidamente atraídos por uma série de retratos antigos que decoravam as paredes. Entre eles, destacava-se uma pintura dos pais de [[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich|Strahd von Zarovich]] , ladeados pelo próprio rei em seus anos de juventude, um rosto mais jovem, mas cujos olhos já carregavam as mesmas sombras de agora.
 
 <div class="npc-gallery">
-  <img src="retrato de strahd mais novo.png" alt="strahd mais novo" style="width: 45%; border-radius: 8px;" />
-  <img src="pais de strahd.png" alt="pais de strahd"style="width: 45%; border-radius: 8px;" />
+  <img src="retrato de strahd mais novo.png" alt="strahd mais novo" style="width: 15%; border-radius: 8px;" />
+  <img src="pais de strahd.png" alt="pais de strahd"style="width: 15%; border-radius: 8px;" />
 </div>
 
 Pelos salões, Anna avistou uma pianista, tocando uma melodia delicada, quase etérea, que parecia destoar da imponência do órgão. Fascinada pela música, ela se aproximou… mas não ficou sozinha por muito tempo.

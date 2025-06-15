@@ -22,7 +22,8 @@
     "era": 10,
     "de": 11,
     "ouro": 12,
-    "barovia_era_de_ouro": 13
+    "barovia_era_de_ouro": 13,
+    "tramas": 14
   },
   "_version": 3
 }

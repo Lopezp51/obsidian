@@ -1,5 +1,8 @@
 ---
-tags: barovia_era_de_ouro
+tags:
+  - barovia_era_de_ouro
+img: "[[char_img.png]]"
+conexao: "[[Barovia │ Era de Ouro]]"
 ---
 
 <div class="campaign-title">

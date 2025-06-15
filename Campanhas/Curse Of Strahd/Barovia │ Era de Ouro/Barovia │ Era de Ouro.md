@@ -10,7 +10,7 @@ tags:
 ```datacards
 TABLE img
 FROM #barovia_era_de_ouro
-SORT inicio ASC
+SORT file.name ASC
 
 // Settings
 preset: compact
@@ -22,9 +22,3 @@ lazyLoad: true
 
 ```
 
-[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Artefatos/Artefatos|Artefatos]]
-[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Eventos/Eventos|Eventos]]
-[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Facções/Facções|Facções]]
-[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Localidades/Localidades|Localidades]]
-[[Planos]]
-[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Tramas/Tramas|Tramas]]
