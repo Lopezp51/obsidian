@@ -12,7 +12,7 @@ descricao: Relíquias perdidas, objetos amaldiçoados ou tesouros lendários que
 
 ```datacards
 TABLE img, posse as "Posse", tipo_artefato as "Tipo"
-FROM #artefatos
+FROM #artefatos_era_de_ouro
 SORT tipo_artefato
 
 // Settings

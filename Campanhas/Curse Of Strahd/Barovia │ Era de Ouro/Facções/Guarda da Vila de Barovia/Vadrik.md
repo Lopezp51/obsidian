@@ -2,7 +2,7 @@
 cssclasses:
   - npc-card
 tags:
-  - npc
+  - npc_era_de_ouro
 img: "[[vadrik.png]]"
 status: Vivo
 Afiliação: "[[Guarda da Vila de Barovia]]"

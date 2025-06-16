@@ -2,7 +2,7 @@
 cssclasses:
   - npc-card
 tags:
-  - npc
+  - npc_era_de_ouro
 img: "[[mascara_de_druida.png]]"
 status: Vivo
 Afiliação: "[[Círculo dos Druidas]]"

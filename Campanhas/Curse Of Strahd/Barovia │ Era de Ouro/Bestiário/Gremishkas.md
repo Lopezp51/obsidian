@@ -2,7 +2,7 @@
 cssclasses:
   - npc-card
 tags:
-  - bestiario
+  - bestiario_era_de_ouro
 img: "[[gremlin.png]]"
 conexao: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Bestiário/Bestiário|Bestiário]]"
 ameaca: 💀💀

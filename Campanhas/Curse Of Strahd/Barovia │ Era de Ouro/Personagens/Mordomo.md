@@ -2,7 +2,7 @@
 cssclasses:
   - npc-card
 tags:
-  - npc
+  - npc_era_de_ouro
   - vampiro
 img: "[[Rahadin.jpg]]"
 status: Vivo

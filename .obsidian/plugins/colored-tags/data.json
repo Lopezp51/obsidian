@@ -27,7 +27,19 @@
     "artefatos": 15,
     "bestiario": 16,
     "eventos": 17,
-    "facções": 18
+    "facções": 18,
+    "artefatos_era_de_ouro": 19,
+    "bestiario_era_de_ouro": 20,
+    "eventos_era_de_ouro": 21,
+    "facções_era_de_ouro": 22,
+    "npc_era_de_ouro": 23,
+    "pc": 24,
+    "player_pedro": 25,
+    "pc_era_de_ouro": 26,
+    "player_bruna": 27,
+    "player_joao": 28,
+    "player_gabriel": 29,
+    "player_raul": 30
   },
   "_version": 3
 }

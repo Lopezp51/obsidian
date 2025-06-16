@@ -1,6 +1,6 @@
 ---
 tags:
-  - eventos
+  - eventos_era_de_ouro
 conexao: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Eventos/Eventos|Eventos]]"
 ---
 # **99º Aniversário do Rei**

@@ -12,8 +12,8 @@ descricao: Heróis, traidores, santos e monstros disfarçados de gente.
 
 ```datacards
 TABLE img, status, Afiliação, Localização
-FROM #npc
-SORT name DESC , Afiliação DESC
+FROM #npc_era_de_ouro
+SORT Localização ASC 
 
 // Settings
 preset: cover

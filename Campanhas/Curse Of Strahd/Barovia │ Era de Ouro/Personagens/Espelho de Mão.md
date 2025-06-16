@@ -2,7 +2,7 @@
 cssclasses:
   - npc-card
 tags:
-  - npc
+  - npc_era_de_ouro
 img: "[[espelho_de_mao.png]]"
 status: Viva
 Afiliação: "[[Anna Wachter]]"

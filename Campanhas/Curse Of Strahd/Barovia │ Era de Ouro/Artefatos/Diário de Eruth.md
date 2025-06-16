@@ -2,7 +2,7 @@
 cssclasses:
   - npc-card
 tags:
-  - artefatos
+  - artefatos_era_de_ouro
 img: "[[img_diario_de_Eruth.png]]"
 posse: "[[Anna Wachter]]"
 tipo_artefato: Único

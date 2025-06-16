@@ -2,7 +2,7 @@
 cssclasses:
   - npc-card
 tags:
-  - npc
+  - npc_era_de_ouro
 img: 
 status: Vivo
 Afiliação: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Personagens/Strahd von Zarovich|Strahd von Zarovich]]"

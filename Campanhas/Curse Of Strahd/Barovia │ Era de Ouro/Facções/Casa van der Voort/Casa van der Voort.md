@@ -1,6 +1,6 @@
 ---
 tags:
-  - facções
+  - facções_era_de_ouro
 conexao: "[[Campanhas/Curse Of Strahd/Barovia │ Era de Ouro/Facções/Facções|Facções]]"
 img: "[[simbolo_Casa_van_der_Voort.png]]"
 
@@ -11,4 +11,4 @@ img: "[[simbolo_Casa_van_der_Voort.png]]"
 </div>
 
 [[General van der Voort]]
-[[Bel van der Voort]]
+[[Bel Van Der Voort]]

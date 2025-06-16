@@ -1,6 +1,6 @@
 ---
 cssclasses: npc-card
-tags: npc
+tags: npc_era_de_ouro
 img: "[[mascara_de_porcelana.png]]"
 status: Viva
 Afiliação: ???

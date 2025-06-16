@@ -2,7 +2,7 @@
 cssclasses:
   - npc-card
 tags:
-  - npc
+  - npc_era_de_ouro
 img: "[[irma_da_anna.png]]"
 status: Viva
 Afiliação: "[[Família Wachter]]"

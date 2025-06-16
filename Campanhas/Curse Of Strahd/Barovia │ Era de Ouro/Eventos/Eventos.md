@@ -13,7 +13,7 @@ descricao: Momentos cruciais que mudaram o reinos e marcaram eras.
 
 ```datacards
 TABLE 
-FROM #eventos 
+FROM #eventos_era_de_ouro
 SORT file.link ASC
 
 // Settings

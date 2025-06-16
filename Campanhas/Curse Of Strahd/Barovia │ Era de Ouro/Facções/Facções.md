@@ -13,7 +13,7 @@ descricao: Grupos de poder, irmandades secretas e casas nobres.
 
 ```datacards
 TABLE img
-FROM #facções
+FROM #facções_era_de_ouro
 SORT file.link
 
 // Settings
@@ -34,3 +34,4 @@ lazyLoad: true
 [[Família Wachter]]
 [[Círculo dos Druidas]]
 
+fazer um data view, aliados, inimigos, indiferente e etc

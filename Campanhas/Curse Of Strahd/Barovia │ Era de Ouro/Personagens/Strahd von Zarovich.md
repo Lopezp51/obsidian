@@ -3,7 +3,7 @@ node_size: "2"
 cssclasses:
   - npc-card
 tags:
-  - npc
+  - npc_era_de_ouro
   - Vampiro
 img: "[[Strahd von Zarovich.png]]"
 status: Vivo

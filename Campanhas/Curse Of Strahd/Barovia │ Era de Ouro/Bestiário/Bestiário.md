@@ -12,7 +12,7 @@ descricao: Criaturas sombrias e monstros lendários que habitam florestas, ruín
 
 ```datacards
 TABLE img, ameaca as "Ameaça"
-FROM #bestiario
+FROM #bestiario_era_de_ouro
 SORT file.link ASC
 
 // Settings

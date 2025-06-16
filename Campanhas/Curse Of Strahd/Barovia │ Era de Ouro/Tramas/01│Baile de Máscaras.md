@@ -101,9 +101,9 @@ Assim como Nikolai, Bel havia entrado na fila dos interessados em saudar o rei, 
 
 Após cumprimentar o rei Strahd e uma breve conversa seguir, é estranhamente deduzido por parte do rei com o que pareceu ter sido o seu próprio olfato, mesmo tentando disfarçar coçando o nariz, que Bel viria de Vallaki e por consequência supôs também a sua posição como candidato ao trono, vindo de uma família de um certo General. Falou que para ter sido escolhido e recomendado pelo General, Bel deve ser uma pessoa a qual extremamente capaz. Bel cumprimentou também o conselheiro do rei com um breve aceno, contudo a carapaça esquelética que cobria todo o rosto não deixava revelar nenhum detalhe sobre o nobre Khazan. Bel perguntou sobre a presença do General e se ele estaria presente, mas o rei denotou que ele não é muito participativo nos eventos da corte real.
 
-Em certo momento, Malkieer foi abordado por um homem usando uma máscara de lobo. Ele olhou a coruja do gato e comentou que gostava de corujas,  dizendo que são úteis, por saberem caçar no escuro. Em seguida, declarou abertamente que seu objetivo era o trono. Quando questionou Malkieer sobre o motivo de sua presença, ele respondeu que estava apenas cumprindo uma promessa feita a um amigo. Percebendo que não obteria mais do que isso, o homem da máscara de lobo logo perdeu o interesse e se afastou.
+Em certo momento, Malkieer foi abordado por um homem usando uma máscara de lobo ([[Máscara de Lobo]]. Ele olhou a coruja do gato e comentou que gostava de corujas,  dizendo que são úteis, por saberem caçar no escuro. Em seguida, declarou abertamente que seu objetivo era o trono. Quando questionou Malkieer sobre o motivo de sua presença, ele respondeu que estava apenas cumprindo uma promessa feita a um amigo. Percebendo que não obteria mais do que isso, o homem da máscara de lobo logo perdeu o interesse e se afastou.
 
-Cassandra permanecia sozinha, afastada em um canto do salão, quando avistou do outro lado uma figura peculiar, uma mulher usando uma máscara de porcelana. Em suas mãos, ela segurava o que parecia ser um boneco de pano, costurando-o com delicadeza.
+Cassandra permanecia sozinha, afastada em um canto do salão, quando avistou do outro lado uma figura peculiar, uma mulher usando uma máscara de porcelana ([[Máscara de Porcelana]]. Em suas mãos, ela segurava o que parecia ser um boneco de pano, costurando-o com delicadeza.
 
 Movida por uma curiosidade silenciosa, Cassandra se aproximou.
 
@@ -131,6 +131,8 @@ Ao longo da noite, todos os convidados receberam discretamente um bilhete entreg
 No andar superior, Cassandra ao praticar seus passos foi convidada para dançar. Aceitou, e acabou girando pelo salão em uma valsa elegante ao lado de um jovem usando a [[Máscara de Druida]].
 
 Enquanto isso, Nikolai, sob o disfarce mágico de Disguise Self, assumiu a aparência de um mordomo do castelo. Aproveitando-se do disfarce, conseguiu passar por uma porta vigiada e começou a descer por escadas discretas rumo ao desconhecido.
+
+Anna no andar de embaixo avistou [[Máscara de Ornamentos]], mas não chegaram a interagir.
 
 No andar principal, Anna, Bel e Malkieer ouviram o  som cortante de um grito que atravessou o ambiente:  
 — Ele morreu!
